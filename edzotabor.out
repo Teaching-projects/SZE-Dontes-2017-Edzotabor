@@ -1,0 +1,2170 @@
+Problem:    edzotabor
+Rows:       744
+Columns:    329 (315 integer, 315 binary)
+Non-zeros:  2221
+Status:     INTEGER OPTIMAL
+Objective:  JatekTervBetanulasavalToltottIdo = 24 (MAXimum)
+
+   No.   Row name        Activity     Lower bound   Upper bound
+------ ------------    ------------- ------------- -------------
+     1 EgyNapEgyFajtaEdzes[1]
+                                   1                           1 
+     2 EgyNapEgyFajtaEdzes[2]
+                                   1                           1 
+     3 EgyNapEgyFajtaEdzes[3]
+                                   1                           1 
+     4 EgyNapEgyFajtaEdzes[4]
+                                   1                           1 
+     5 EgyNapEgyFajtaEdzes[5]
+                                   1                           1 
+     6 EgyNapEgyFajtaEdzes[6]
+                                   1                           1 
+     7 EgyNapEgyFajtaEdzes[7]
+                                   1                           1 
+     8 EgyNapEgyFajtaEdzes[8]
+                                   1                           1 
+     9 EgyNapEgyFajtaEdzes[9]
+                                   1                           1 
+    10 EgyNapEgyFajtaEdzes[10]
+                                   1                           1 
+    11 EgyNapEgyFajtaEdzes[11]
+                                   1                           1 
+    12 EgyNapEgyFajtaEdzes[12]
+                                   1                           1 
+    13 EgyNapEgyFajtaEdzes[13]
+                                   1                           1 
+    14 EgyNapEgyFajtaEdzes[14]
+                                   1                           1 
+    15 EgyNapEgyFajtaEdzes[15]
+                                   1                           1 
+    16 EgyNapEgyFajtaEdzes[16]
+                                   1                           1 
+    17 EgyNapEgyFajtaEdzes[17]
+                                   0                           1 
+    18 EgyNapEgyFajtaEdzes[18]
+                                   1                           1 
+    19 EgyNapEgyFajtaEdzes[19]
+                                   1                           1 
+    20 EgyNapEgyFajtaEdzes[20]
+                                   1                           1 
+    21 EgyNapEgyFajtaEdzes[21]
+                                   1                           1 
+    22 EgyNapEgyFajtaEdzes[22]
+                                   1                           1 
+    23 EgyNapEgyFajtaEdzes[23]
+                                   1                           1 
+    24 EgyNapEgyFajtaEdzes[24]
+                                   1                           1 
+    25 EgyNapEgyFajtaEdzes[25]
+                                   1                           1 
+    26 EgyNapEgyFajtaEdzes[26]
+                                   1                           1 
+    27 EgyNapEgyFajtaEdzes[27]
+                                   1                           1 
+    28 EgyNapEgyFajtaEdzes[28]
+                                   1                           1 
+    29 EgyNapEgyFajtaEdzes[29]
+                                   1                           1 
+    30 EgyNapEgyFajtaEdzes[30]
+                                   1                           1 
+    31 EgyNapEgyFajtaEdzes[31]
+                                   1                           1 
+    32 EgyNapEgyFajtaEdzes[32]
+                                   1                           1 
+    33 EgyNapEgyFajtaEdzes[33]
+                                   1                           1 
+    34 EgyNapEgyFajtaEdzes[34]
+                                   1                           1 
+    35 EgyNapEgyFajtaEdzes[35]
+                                   1                           1 
+    36 EgyNapEgyFajtaEdzes[36]
+                                   1                           1 
+    37 EgyNapEgyFajtaEdzes[37]
+                                   1                           1 
+    38 EgyNapEgyFajtaEdzes[38]
+                                   1                           1 
+    39 EgyNapEgyFajtaEdzes[39]
+                                   1                           1 
+    40 EgyNapEgyFajtaEdzes[40]
+                                   1                           1 
+    41 EgyNapEgyFajtaEdzes[41]
+                                   1                           1 
+    42 EgyNapEgyFajtaEdzes[42]
+                                   1                           1 
+    43 EgyNapEgyFajtaEdzes[43]
+                                   1                           1 
+    44 EgyNapEgyFajtaEdzes[44]
+                                   1                           1 
+    45 EgyNapEgyFajtaEdzes[45]
+                                   1                           1 
+    46 EdzesAkkorHaVanIdo[Konditerem,1]
+                                   0                           2 
+    47 EdzesAkkorHaVanIdo[Konditerem,2]
+                                   0                         1.5 
+    48 EdzesAkkorHaVanIdo[Konditerem,3]
+                                   0                         1.8 
+    49 EdzesAkkorHaVanIdo[Konditerem,4]
+                                   0                           4 
+    50 EdzesAkkorHaVanIdo[Konditerem,5]
+                                 0.2                         3.6 
+    51 EdzesAkkorHaVanIdo[Konditerem,6]
+                                   0                         0.9 
+    52 EdzesAkkorHaVanIdo[Konditerem,7]
+                                   0                         2.5 
+    53 EdzesAkkorHaVanIdo[Konditerem,8]
+                                   0                         2.4 
+    54 EdzesAkkorHaVanIdo[Konditerem,9]
+                                   0                         2.5 
+    55 EdzesAkkorHaVanIdo[Konditerem,10]
+                                 0.2                           5 
+    56 EdzesAkkorHaVanIdo[Konditerem,11]
+                                   0                         1.2 
+    57 EdzesAkkorHaVanIdo[Konditerem,12]
+                                   0                         3.1 
+    58 EdzesAkkorHaVanIdo[Konditerem,13]
+                                   0                         4.5 
+    59 EdzesAkkorHaVanIdo[Konditerem,14]
+                                   0                         1.9 
+    60 EdzesAkkorHaVanIdo[Konditerem,15]
+                                   0                         1.7 
+    61 EdzesAkkorHaVanIdo[Konditerem,16]
+                                   0                         2.9 
+    62 EdzesAkkorHaVanIdo[Konditerem,17]
+                                   0                          -0 
+    63 EdzesAkkorHaVanIdo[Konditerem,18]
+                                   0                           3 
+    64 EdzesAkkorHaVanIdo[Konditerem,19]
+                                   0                         3.6 
+    65 EdzesAkkorHaVanIdo[Konditerem,20]
+                                   0                         1.5 
+    66 EdzesAkkorHaVanIdo[Konditerem,21]
+                                   0                         2.2 
+    67 EdzesAkkorHaVanIdo[Konditerem,22]
+                                   0                         2.1 
+    68 EdzesAkkorHaVanIdo[Konditerem,23]
+                                   0                         3.3 
+    69 EdzesAkkorHaVanIdo[Konditerem,24]
+                                   0                           5 
+    70 EdzesAkkorHaVanIdo[Konditerem,25]
+                                   0                         1.7 
+    71 EdzesAkkorHaVanIdo[Konditerem,26]
+                                   0                           3 
+    72 EdzesAkkorHaVanIdo[Konditerem,27]
+                                   0                         4.2 
+    73 EdzesAkkorHaVanIdo[Konditerem,28]
+                                   0                         2.6 
+    74 EdzesAkkorHaVanIdo[Konditerem,29]
+                                   0                         2.9 
+    75 EdzesAkkorHaVanIdo[Konditerem,30]
+                                   0                         1.1 
+    76 EdzesAkkorHaVanIdo[Konditerem,31]
+                                   0                         1.2 
+    77 EdzesAkkorHaVanIdo[Konditerem,32]
+                                   0                         3.6 
+    78 EdzesAkkorHaVanIdo[Konditerem,33]
+                                   0                         2.4 
+    79 EdzesAkkorHaVanIdo[Konditerem,34]
+                                   0                         1.7 
+    80 EdzesAkkorHaVanIdo[Konditerem,35]
+                                   0                           5 
+    81 EdzesAkkorHaVanIdo[Konditerem,36]
+                                   0                         4.5 
+    82 EdzesAkkorHaVanIdo[Konditerem,37]
+                                 0.2                           5 
+    83 EdzesAkkorHaVanIdo[Konditerem,38]
+                                   0                         3.9 
+    84 EdzesAkkorHaVanIdo[Konditerem,39]
+                                   0                         2.9 
+    85 EdzesAkkorHaVanIdo[Konditerem,40]
+                                   0                         1.8 
+    86 EdzesAkkorHaVanIdo[Konditerem,41]
+                                   0                         2.7 
+    87 EdzesAkkorHaVanIdo[Konditerem,42]
+                                   0                           3 
+    88 EdzesAkkorHaVanIdo[Konditerem,43]
+                                   0                         5.3 
+    89 EdzesAkkorHaVanIdo[Konditerem,44]
+                                   0                         4.4 
+    90 EdzesAkkorHaVanIdo[Konditerem,45]
+                                   0                         4.9 
+    91 EdzesAkkorHaVanIdo[Futojatek,1]
+                                   0                           2 
+    92 EdzesAkkorHaVanIdo[Futojatek,2]
+                                 0.3                         1.5 
+    93 EdzesAkkorHaVanIdo[Futojatek,3]
+                                   0                         1.8 
+    94 EdzesAkkorHaVanIdo[Futojatek,4]
+                                   0                           4 
+    95 EdzesAkkorHaVanIdo[Futojatek,5]
+                                   0                         3.6 
+    96 EdzesAkkorHaVanIdo[Futojatek,6]
+                                   0                         0.9 
+    97 EdzesAkkorHaVanIdo[Futojatek,7]
+                                 0.3                         2.5 
+    98 EdzesAkkorHaVanIdo[Futojatek,8]
+                                   0                         2.4 
+    99 EdzesAkkorHaVanIdo[Futojatek,9]
+                                 0.3                         2.5 
+   100 EdzesAkkorHaVanIdo[Futojatek,10]
+                                   0                           5 
+   101 EdzesAkkorHaVanIdo[Futojatek,11]
+                                   0                         1.2 
+   102 EdzesAkkorHaVanIdo[Futojatek,12]
+                                   0                         3.1 
+   103 EdzesAkkorHaVanIdo[Futojatek,13]
+                                   0                         4.5 
+   104 EdzesAkkorHaVanIdo[Futojatek,14]
+                                   0                         1.9 
+   105 EdzesAkkorHaVanIdo[Futojatek,15]
+                                   0                         1.7 
+   106 EdzesAkkorHaVanIdo[Futojatek,16]
+                                   0                         2.9 
+   107 EdzesAkkorHaVanIdo[Futojatek,17]
+                                   0                          -0 
+   108 EdzesAkkorHaVanIdo[Futojatek,18]
+                                   0                           3 
+   109 EdzesAkkorHaVanIdo[Futojatek,19]
+                                   0                         3.6 
+   110 EdzesAkkorHaVanIdo[Futojatek,20]
+                                   0                         1.5 
+   111 EdzesAkkorHaVanIdo[Futojatek,21]
+                                 0.3                         2.2 
+   112 EdzesAkkorHaVanIdo[Futojatek,22]
+                                   0                         2.1 
+   113 EdzesAkkorHaVanIdo[Futojatek,23]
+                                   0                         3.3 
+   114 EdzesAkkorHaVanIdo[Futojatek,24]
+                                   0                           5 
+   115 EdzesAkkorHaVanIdo[Futojatek,25]
+                                   0                         1.7 
+   116 EdzesAkkorHaVanIdo[Futojatek,26]
+                                   0                           3 
+   117 EdzesAkkorHaVanIdo[Futojatek,27]
+                                   0                         4.2 
+   118 EdzesAkkorHaVanIdo[Futojatek,28]
+                                   0                         2.6 
+   119 EdzesAkkorHaVanIdo[Futojatek,29]
+                                   0                         2.9 
+   120 EdzesAkkorHaVanIdo[Futojatek,30]
+                                   0                         1.1 
+   121 EdzesAkkorHaVanIdo[Futojatek,31]
+                                 0.3                         1.2 
+   122 EdzesAkkorHaVanIdo[Futojatek,32]
+                                   0                         3.6 
+   123 EdzesAkkorHaVanIdo[Futojatek,33]
+                                 0.3                         2.4 
+   124 EdzesAkkorHaVanIdo[Futojatek,34]
+                                   0                         1.7 
+   125 EdzesAkkorHaVanIdo[Futojatek,35]
+                                   0                           5 
+   126 EdzesAkkorHaVanIdo[Futojatek,36]
+                                   0                         4.5 
+   127 EdzesAkkorHaVanIdo[Futojatek,37]
+                                   0                           5 
+   128 EdzesAkkorHaVanIdo[Futojatek,38]
+                                   0                         3.9 
+   129 EdzesAkkorHaVanIdo[Futojatek,39]
+                                   0                         2.9 
+   130 EdzesAkkorHaVanIdo[Futojatek,40]
+                                   0                         1.8 
+   131 EdzesAkkorHaVanIdo[Futojatek,41]
+                                   0                         2.7 
+   132 EdzesAkkorHaVanIdo[Futojatek,42]
+                                   0                           3 
+   133 EdzesAkkorHaVanIdo[Futojatek,43]
+                                   0                         5.3 
+   134 EdzesAkkorHaVanIdo[Futojatek,44]
+                                   0                         4.4 
+   135 EdzesAkkorHaVanIdo[Futojatek,45]
+                                   0                         4.9 
+   136 EdzesAkkorHaVanIdo[Passzjatek,1]
+                                 0.3                           2 
+   137 EdzesAkkorHaVanIdo[Passzjatek,2]
+                                   0                         1.5 
+   138 EdzesAkkorHaVanIdo[Passzjatek,3]
+                                 0.3                         1.8 
+   139 EdzesAkkorHaVanIdo[Passzjatek,4]
+                                   0                           4 
+   140 EdzesAkkorHaVanIdo[Passzjatek,5]
+                                   0                         3.6 
+   141 EdzesAkkorHaVanIdo[Passzjatek,6]
+                                 0.3                         0.9 
+   142 EdzesAkkorHaVanIdo[Passzjatek,7]
+                                   0                         2.5 
+   143 EdzesAkkorHaVanIdo[Passzjatek,8]
+                                 0.3                         2.4 
+   144 EdzesAkkorHaVanIdo[Passzjatek,9]
+                                   0                         2.5 
+   145 EdzesAkkorHaVanIdo[Passzjatek,10]
+                                   0                           5 
+   146 EdzesAkkorHaVanIdo[Passzjatek,11]
+                                 0.3                         1.2 
+   147 EdzesAkkorHaVanIdo[Passzjatek,12]
+                                   0                         3.1 
+   148 EdzesAkkorHaVanIdo[Passzjatek,13]
+                                   0                         4.5 
+   149 EdzesAkkorHaVanIdo[Passzjatek,14]
+                                   0                         1.9 
+   150 EdzesAkkorHaVanIdo[Passzjatek,15]
+                                 0.3                         1.7 
+   151 EdzesAkkorHaVanIdo[Passzjatek,16]
+                                   0                         2.9 
+   152 EdzesAkkorHaVanIdo[Passzjatek,17]
+                                   0                          -0 
+   153 EdzesAkkorHaVanIdo[Passzjatek,18]
+                                 0.3                           3 
+   154 EdzesAkkorHaVanIdo[Passzjatek,19]
+                                   0                         3.6 
+   155 EdzesAkkorHaVanIdo[Passzjatek,20]
+                                 0.3                         1.5 
+   156 EdzesAkkorHaVanIdo[Passzjatek,21]
+                                   0                         2.2 
+   157 EdzesAkkorHaVanIdo[Passzjatek,22]
+                                 0.3                         2.1 
+   158 EdzesAkkorHaVanIdo[Passzjatek,23]
+                                   0                         3.3 
+   159 EdzesAkkorHaVanIdo[Passzjatek,24]
+                                   0                           5 
+   160 EdzesAkkorHaVanIdo[Passzjatek,25]
+                                   0                         1.7 
+   161 EdzesAkkorHaVanIdo[Passzjatek,26]
+                                 0.3                           3 
+   162 EdzesAkkorHaVanIdo[Passzjatek,27]
+                                   0                         4.2 
+   163 EdzesAkkorHaVanIdo[Passzjatek,28]
+                                 0.3                         2.6 
+   164 EdzesAkkorHaVanIdo[Passzjatek,29]
+                                   0                         2.9 
+   165 EdzesAkkorHaVanIdo[Passzjatek,30]
+                                 0.3                         1.1 
+   166 EdzesAkkorHaVanIdo[Passzjatek,31]
+                                   0                         1.2 
+   167 EdzesAkkorHaVanIdo[Passzjatek,32]
+                                 0.3                         3.6 
+   168 EdzesAkkorHaVanIdo[Passzjatek,33]
+                                   0                         2.4 
+   169 EdzesAkkorHaVanIdo[Passzjatek,34]
+                                 0.3                         1.7 
+   170 EdzesAkkorHaVanIdo[Passzjatek,35]
+                                   0                           5 
+   171 EdzesAkkorHaVanIdo[Passzjatek,36]
+                                 0.3                         4.5 
+   172 EdzesAkkorHaVanIdo[Passzjatek,37]
+                                   0                           5 
+   173 EdzesAkkorHaVanIdo[Passzjatek,38]
+                                 0.3                         3.9 
+   174 EdzesAkkorHaVanIdo[Passzjatek,39]
+                                   0                         2.9 
+   175 EdzesAkkorHaVanIdo[Passzjatek,40]
+                                 0.3                         1.8 
+   176 EdzesAkkorHaVanIdo[Passzjatek,41]
+                                   0                         2.7 
+   177 EdzesAkkorHaVanIdo[Passzjatek,42]
+                                 0.3                           3 
+   178 EdzesAkkorHaVanIdo[Passzjatek,43]
+                                   0                         5.3 
+   179 EdzesAkkorHaVanIdo[Passzjatek,44]
+                                   0                         4.4 
+   180 EdzesAkkorHaVanIdo[Passzjatek,45]
+                                   0                         4.9 
+   181 EdzesAkkorHaVanIdo[Specialis_csapat,1]
+                                   0                           2 
+   182 EdzesAkkorHaVanIdo[Specialis_csapat,2]
+                                   0                         1.5 
+   183 EdzesAkkorHaVanIdo[Specialis_csapat,3]
+                                   0                         1.8 
+   184 EdzesAkkorHaVanIdo[Specialis_csapat,4]
+                                   0                           4 
+   185 EdzesAkkorHaVanIdo[Specialis_csapat,5]
+                                   0                         3.6 
+   186 EdzesAkkorHaVanIdo[Specialis_csapat,6]
+                                   0                         0.9 
+   187 EdzesAkkorHaVanIdo[Specialis_csapat,7]
+                                   0                         2.5 
+   188 EdzesAkkorHaVanIdo[Specialis_csapat,8]
+                                   0                         2.4 
+   189 EdzesAkkorHaVanIdo[Specialis_csapat,9]
+                                   0                         2.5 
+   190 EdzesAkkorHaVanIdo[Specialis_csapat,10]
+                                   0                           5 
+   191 EdzesAkkorHaVanIdo[Specialis_csapat,11]
+                                   0                         1.2 
+   192 EdzesAkkorHaVanIdo[Specialis_csapat,12]
+                                   0                         3.1 
+   193 EdzesAkkorHaVanIdo[Specialis_csapat,13]
+                                   0                         4.5 
+   194 EdzesAkkorHaVanIdo[Specialis_csapat,14]
+                                   0                         1.9 
+   195 EdzesAkkorHaVanIdo[Specialis_csapat,15]
+                                   0                         1.7 
+   196 EdzesAkkorHaVanIdo[Specialis_csapat,16]
+                                   0                         2.9 
+   197 EdzesAkkorHaVanIdo[Specialis_csapat,17]
+                                   0                          -0 
+   198 EdzesAkkorHaVanIdo[Specialis_csapat,18]
+                                   0                           3 
+   199 EdzesAkkorHaVanIdo[Specialis_csapat,19]
+                                   0                         3.6 
+   200 EdzesAkkorHaVanIdo[Specialis_csapat,20]
+                                   0                         1.5 
+   201 EdzesAkkorHaVanIdo[Specialis_csapat,21]
+                                   0                         2.2 
+   202 EdzesAkkorHaVanIdo[Specialis_csapat,22]
+                                   0                         2.1 
+   203 EdzesAkkorHaVanIdo[Specialis_csapat,23]
+                                   0                         3.3 
+   204 EdzesAkkorHaVanIdo[Specialis_csapat,24]
+                                   0                           5 
+   205 EdzesAkkorHaVanIdo[Specialis_csapat,25]
+                                   0                         1.7 
+   206 EdzesAkkorHaVanIdo[Specialis_csapat,26]
+                                   0                           3 
+   207 EdzesAkkorHaVanIdo[Specialis_csapat,27]
+                                   0                         4.2 
+   208 EdzesAkkorHaVanIdo[Specialis_csapat,28]
+                                   0                         2.6 
+   209 EdzesAkkorHaVanIdo[Specialis_csapat,29]
+                                   0                         2.9 
+   210 EdzesAkkorHaVanIdo[Specialis_csapat,30]
+                                   0                         1.1 
+   211 EdzesAkkorHaVanIdo[Specialis_csapat,31]
+                                   0                         1.2 
+   212 EdzesAkkorHaVanIdo[Specialis_csapat,32]
+                                   0                         3.6 
+   213 EdzesAkkorHaVanIdo[Specialis_csapat,33]
+                                   0                         2.4 
+   214 EdzesAkkorHaVanIdo[Specialis_csapat,34]
+                                   0                         1.7 
+   215 EdzesAkkorHaVanIdo[Specialis_csapat,35]
+                                 0.6                           5 
+   216 EdzesAkkorHaVanIdo[Specialis_csapat,36]
+                                   0                         4.5 
+   217 EdzesAkkorHaVanIdo[Specialis_csapat,37]
+                                   0                           5 
+   218 EdzesAkkorHaVanIdo[Specialis_csapat,38]
+                                   0                         3.9 
+   219 EdzesAkkorHaVanIdo[Specialis_csapat,39]
+                                   0                         2.9 
+   220 EdzesAkkorHaVanIdo[Specialis_csapat,40]
+                                   0                         1.8 
+   221 EdzesAkkorHaVanIdo[Specialis_csapat,41]
+                                   0                         2.7 
+   222 EdzesAkkorHaVanIdo[Specialis_csapat,42]
+                                   0                           3 
+   223 EdzesAkkorHaVanIdo[Specialis_csapat,43]
+                                   0                         5.3 
+   224 EdzesAkkorHaVanIdo[Specialis_csapat,44]
+                                   0                         4.4 
+   225 EdzesAkkorHaVanIdo[Specialis_csapat,45]
+                                   0                         4.9 
+   226 EdzesAkkorHaVanIdo[Videozas,1]
+                                   0                           2 
+   227 EdzesAkkorHaVanIdo[Videozas,2]
+                                   0                         1.5 
+   228 EdzesAkkorHaVanIdo[Videozas,3]
+                                   0                         1.8 
+   229 EdzesAkkorHaVanIdo[Videozas,4]
+                                   0                           4 
+   230 EdzesAkkorHaVanIdo[Videozas,5]
+                                   0                         3.6 
+   231 EdzesAkkorHaVanIdo[Videozas,6]
+                                   0                         0.9 
+   232 EdzesAkkorHaVanIdo[Videozas,7]
+                                   0                         2.5 
+   233 EdzesAkkorHaVanIdo[Videozas,8]
+                                   0                         2.4 
+   234 EdzesAkkorHaVanIdo[Videozas,9]
+                                   0                         2.5 
+   235 EdzesAkkorHaVanIdo[Videozas,10]
+                                   0                           5 
+   236 EdzesAkkorHaVanIdo[Videozas,11]
+                                   0                         1.2 
+   237 EdzesAkkorHaVanIdo[Videozas,12]
+                                   0                         3.1 
+   238 EdzesAkkorHaVanIdo[Videozas,13]
+                                   0                         4.5 
+   239 EdzesAkkorHaVanIdo[Videozas,14]
+                                   0                         1.9 
+   240 EdzesAkkorHaVanIdo[Videozas,15]
+                                   0                         1.7 
+   241 EdzesAkkorHaVanIdo[Videozas,16]
+                                   0                         2.9 
+   242 EdzesAkkorHaVanIdo[Videozas,17]
+                                   0                          -0 
+   243 EdzesAkkorHaVanIdo[Videozas,18]
+                                   0                           3 
+   244 EdzesAkkorHaVanIdo[Videozas,19]
+                                   0                         3.6 
+   245 EdzesAkkorHaVanIdo[Videozas,20]
+                                   0                         1.5 
+   246 EdzesAkkorHaVanIdo[Videozas,21]
+                                   0                         2.2 
+   247 EdzesAkkorHaVanIdo[Videozas,22]
+                                   0                         2.1 
+   248 EdzesAkkorHaVanIdo[Videozas,23]
+                                   0                         3.3 
+   249 EdzesAkkorHaVanIdo[Videozas,24]
+                                   0                           5 
+   250 EdzesAkkorHaVanIdo[Videozas,25]
+                                   0                         1.7 
+   251 EdzesAkkorHaVanIdo[Videozas,26]
+                                   0                           3 
+   252 EdzesAkkorHaVanIdo[Videozas,27]
+                                   0                         4.2 
+   253 EdzesAkkorHaVanIdo[Videozas,28]
+                                   0                         2.6 
+   254 EdzesAkkorHaVanIdo[Videozas,29]
+                                   0                         2.9 
+   255 EdzesAkkorHaVanIdo[Videozas,30]
+                                   0                         1.1 
+   256 EdzesAkkorHaVanIdo[Videozas,31]
+                                   0                         1.2 
+   257 EdzesAkkorHaVanIdo[Videozas,32]
+                                   0                         3.6 
+   258 EdzesAkkorHaVanIdo[Videozas,33]
+                                   0                         2.4 
+   259 EdzesAkkorHaVanIdo[Videozas,34]
+                                   0                         1.7 
+   260 EdzesAkkorHaVanIdo[Videozas,35]
+                                   0                           5 
+   261 EdzesAkkorHaVanIdo[Videozas,36]
+                                   0                         4.5 
+   262 EdzesAkkorHaVanIdo[Videozas,37]
+                                   0                           5 
+   263 EdzesAkkorHaVanIdo[Videozas,38]
+                                   0                         3.9 
+   264 EdzesAkkorHaVanIdo[Videozas,39]
+                                   0                         2.9 
+   265 EdzesAkkorHaVanIdo[Videozas,40]
+                                   0                         1.8 
+   266 EdzesAkkorHaVanIdo[Videozas,41]
+                                   0                         2.7 
+   267 EdzesAkkorHaVanIdo[Videozas,42]
+                                   0                           3 
+   268 EdzesAkkorHaVanIdo[Videozas,43]
+                                   0                         5.3 
+   269 EdzesAkkorHaVanIdo[Videozas,44]
+                                   0                         4.4 
+   270 EdzesAkkorHaVanIdo[Videozas,45]
+                                   0                         4.9 
+   271 EdzesAkkorHaVanIdo[Kontaktnelkuli,1]
+                                   0                           2 
+   272 EdzesAkkorHaVanIdo[Kontaktnelkuli,2]
+                                   0                         1.5 
+   273 EdzesAkkorHaVanIdo[Kontaktnelkuli,3]
+                                   0                         1.8 
+   274 EdzesAkkorHaVanIdo[Kontaktnelkuli,4]
+                                 0.2                           4 
+   275 EdzesAkkorHaVanIdo[Kontaktnelkuli,5]
+                                   0                         3.6 
+   276 EdzesAkkorHaVanIdo[Kontaktnelkuli,6]
+                                   0                         0.9 
+   277 EdzesAkkorHaVanIdo[Kontaktnelkuli,7]
+                                   0                         2.5 
+   278 EdzesAkkorHaVanIdo[Kontaktnelkuli,8]
+                                   0                         2.4 
+   279 EdzesAkkorHaVanIdo[Kontaktnelkuli,9]
+                                   0                         2.5 
+   280 EdzesAkkorHaVanIdo[Kontaktnelkuli,10]
+                                   0                           5 
+   281 EdzesAkkorHaVanIdo[Kontaktnelkuli,11]
+                                   0                         1.2 
+   282 EdzesAkkorHaVanIdo[Kontaktnelkuli,12]
+                                 0.2                         3.1 
+   283 EdzesAkkorHaVanIdo[Kontaktnelkuli,13]
+                                   0                         4.5 
+   284 EdzesAkkorHaVanIdo[Kontaktnelkuli,14]
+                                   0                         1.9 
+   285 EdzesAkkorHaVanIdo[Kontaktnelkuli,15]
+                                   0                         1.7 
+   286 EdzesAkkorHaVanIdo[Kontaktnelkuli,16]
+                                   0                         2.9 
+   287 EdzesAkkorHaVanIdo[Kontaktnelkuli,17]
+                                   0                          -0 
+   288 EdzesAkkorHaVanIdo[Kontaktnelkuli,18]
+                                   0                           3 
+   289 EdzesAkkorHaVanIdo[Kontaktnelkuli,19]
+                                 0.2                         3.6 
+   290 EdzesAkkorHaVanIdo[Kontaktnelkuli,20]
+                                   0                         1.5 
+   291 EdzesAkkorHaVanIdo[Kontaktnelkuli,21]
+                                   0                         2.2 
+   292 EdzesAkkorHaVanIdo[Kontaktnelkuli,22]
+                                   0                         2.1 
+   293 EdzesAkkorHaVanIdo[Kontaktnelkuli,23]
+                                 0.2                         3.3 
+   294 EdzesAkkorHaVanIdo[Kontaktnelkuli,24]
+                                   0                           5 
+   295 EdzesAkkorHaVanIdo[Kontaktnelkuli,25]
+                                   0                         1.7 
+   296 EdzesAkkorHaVanIdo[Kontaktnelkuli,26]
+                                   0                           3 
+   297 EdzesAkkorHaVanIdo[Kontaktnelkuli,27]
+                                 0.2                         4.2 
+   298 EdzesAkkorHaVanIdo[Kontaktnelkuli,28]
+                                   0                         2.6 
+   299 EdzesAkkorHaVanIdo[Kontaktnelkuli,29]
+                                 0.2                         2.9 
+   300 EdzesAkkorHaVanIdo[Kontaktnelkuli,30]
+                                   0                         1.1 
+   301 EdzesAkkorHaVanIdo[Kontaktnelkuli,31]
+                                   0                         1.2 
+   302 EdzesAkkorHaVanIdo[Kontaktnelkuli,32]
+                                   0                         3.6 
+   303 EdzesAkkorHaVanIdo[Kontaktnelkuli,33]
+                                   0                         2.4 
+   304 EdzesAkkorHaVanIdo[Kontaktnelkuli,34]
+                                   0                         1.7 
+   305 EdzesAkkorHaVanIdo[Kontaktnelkuli,35]
+                                   0                           5 
+   306 EdzesAkkorHaVanIdo[Kontaktnelkuli,36]
+                                   0                         4.5 
+   307 EdzesAkkorHaVanIdo[Kontaktnelkuli,37]
+                                   0                           5 
+   308 EdzesAkkorHaVanIdo[Kontaktnelkuli,38]
+                                   0                         3.9 
+   309 EdzesAkkorHaVanIdo[Kontaktnelkuli,39]
+                                 0.2                         2.9 
+   310 EdzesAkkorHaVanIdo[Kontaktnelkuli,40]
+                                   0                         1.8 
+   311 EdzesAkkorHaVanIdo[Kontaktnelkuli,41]
+                                 0.2                         2.7 
+   312 EdzesAkkorHaVanIdo[Kontaktnelkuli,42]
+                                   0                           3 
+   313 EdzesAkkorHaVanIdo[Kontaktnelkuli,43]
+                                   0                         5.3 
+   314 EdzesAkkorHaVanIdo[Kontaktnelkuli,44]
+                                   0                         4.4 
+   315 EdzesAkkorHaVanIdo[Kontaktnelkuli,45]
+                                   0                         4.9 
+   316 EdzesAkkorHaVanIdo[Kontakt,1]
+                                   0                           2 
+   317 EdzesAkkorHaVanIdo[Kontakt,2]
+                                   0                         1.5 
+   318 EdzesAkkorHaVanIdo[Kontakt,3]
+                                   0                         1.8 
+   319 EdzesAkkorHaVanIdo[Kontakt,4]
+                                   0                           4 
+   320 EdzesAkkorHaVanIdo[Kontakt,5]
+                                   0                         3.6 
+   321 EdzesAkkorHaVanIdo[Kontakt,6]
+                                   0                         0.9 
+   322 EdzesAkkorHaVanIdo[Kontakt,7]
+                                   0                         2.5 
+   323 EdzesAkkorHaVanIdo[Kontakt,8]
+                                   0                         2.4 
+   324 EdzesAkkorHaVanIdo[Kontakt,9]
+                                   0                         2.5 
+   325 EdzesAkkorHaVanIdo[Kontakt,10]
+                                   0                           5 
+   326 EdzesAkkorHaVanIdo[Kontakt,11]
+                                   0                         1.2 
+   327 EdzesAkkorHaVanIdo[Kontakt,12]
+                                   0                         3.1 
+   328 EdzesAkkorHaVanIdo[Kontakt,13]
+                                 0.5                         4.5 
+   329 EdzesAkkorHaVanIdo[Kontakt,14]
+                                   0                         1.9 
+   330 EdzesAkkorHaVanIdo[Kontakt,15]
+                                   0                         1.7 
+   331 EdzesAkkorHaVanIdo[Kontakt,16]
+                                 0.5                         2.9 
+   332 EdzesAkkorHaVanIdo[Kontakt,17]
+                                   0                          -0 
+   333 EdzesAkkorHaVanIdo[Kontakt,18]
+                                   0                           3 
+   334 EdzesAkkorHaVanIdo[Kontakt,19]
+                                   0                         3.6 
+   335 EdzesAkkorHaVanIdo[Kontakt,20]
+                                   0                         1.5 
+   336 EdzesAkkorHaVanIdo[Kontakt,21]
+                                   0                         2.2 
+   337 EdzesAkkorHaVanIdo[Kontakt,22]
+                                   0                         2.1 
+   338 EdzesAkkorHaVanIdo[Kontakt,23]
+                                   0                         3.3 
+   339 EdzesAkkorHaVanIdo[Kontakt,24]
+                                 0.5                           5 
+   340 EdzesAkkorHaVanIdo[Kontakt,25]
+                                   0                         1.7 
+   341 EdzesAkkorHaVanIdo[Kontakt,26]
+                                   0                           3 
+   342 EdzesAkkorHaVanIdo[Kontakt,27]
+                                   0                         4.2 
+   343 EdzesAkkorHaVanIdo[Kontakt,28]
+                                   0                         2.6 
+   344 EdzesAkkorHaVanIdo[Kontakt,29]
+                                   0                         2.9 
+   345 EdzesAkkorHaVanIdo[Kontakt,30]
+                                   0                         1.1 
+   346 EdzesAkkorHaVanIdo[Kontakt,31]
+                                   0                         1.2 
+   347 EdzesAkkorHaVanIdo[Kontakt,32]
+                                   0                         3.6 
+   348 EdzesAkkorHaVanIdo[Kontakt,33]
+                                   0                         2.4 
+   349 EdzesAkkorHaVanIdo[Kontakt,34]
+                                   0                         1.7 
+   350 EdzesAkkorHaVanIdo[Kontakt,35]
+                                   0                           5 
+   351 EdzesAkkorHaVanIdo[Kontakt,36]
+                                   0                         4.5 
+   352 EdzesAkkorHaVanIdo[Kontakt,37]
+                                   0                           5 
+   353 EdzesAkkorHaVanIdo[Kontakt,38]
+                                   0                         3.9 
+   354 EdzesAkkorHaVanIdo[Kontakt,39]
+                                   0                         2.9 
+   355 EdzesAkkorHaVanIdo[Kontakt,40]
+                                   0                         1.8 
+   356 EdzesAkkorHaVanIdo[Kontakt,41]
+                                   0                         2.7 
+   357 EdzesAkkorHaVanIdo[Kontakt,42]
+                                   0                           3 
+   358 EdzesAkkorHaVanIdo[Kontakt,43]
+                                 0.5                         5.3 
+   359 EdzesAkkorHaVanIdo[Kontakt,44]
+                                   0                         4.4 
+   360 EdzesAkkorHaVanIdo[Kontakt,45]
+                                 0.5                         4.9 
+   361 NemVegezhetuUgyanAzEgymasUtan[1,Konditerem]
+                                   0                           1 
+   362 NemVegezhetuUgyanAzEgymasUtan[1,Futojatek]
+                                   1                           1 
+   363 NemVegezhetuUgyanAzEgymasUtan[1,Passzjatek]
+                                   1                           1 
+   364 NemVegezhetuUgyanAzEgymasUtan[1,Specialis_csapat]
+                                   0                           1 
+   365 NemVegezhetuUgyanAzEgymasUtan[1,Videozas]
+                                   0                           1 
+   366 NemVegezhetuUgyanAzEgymasUtan[1,Kontaktnelkuli]
+                                   0                           1 
+   367 NemVegezhetuUgyanAzEgymasUtan[1,Kontakt]
+                                   0                           1 
+   368 NemVegezhetuUgyanAzEgymasUtan[2,Konditerem]
+                                   0                           1 
+   369 NemVegezhetuUgyanAzEgymasUtan[2,Futojatek]
+                                   1                           1 
+   370 NemVegezhetuUgyanAzEgymasUtan[2,Passzjatek]
+                                   1                           1 
+   371 NemVegezhetuUgyanAzEgymasUtan[2,Specialis_csapat]
+                                   0                           1 
+   372 NemVegezhetuUgyanAzEgymasUtan[2,Videozas]
+                                   0                           1 
+   373 NemVegezhetuUgyanAzEgymasUtan[2,Kontaktnelkuli]
+                                   0                           1 
+   374 NemVegezhetuUgyanAzEgymasUtan[2,Kontakt]
+                                   0                           1 
+   375 NemVegezhetuUgyanAzEgymasUtan[3,Konditerem]
+                                   0                           1 
+   376 NemVegezhetuUgyanAzEgymasUtan[3,Futojatek]
+                                   0                           1 
+   377 NemVegezhetuUgyanAzEgymasUtan[3,Passzjatek]
+                                   1                           1 
+   378 NemVegezhetuUgyanAzEgymasUtan[3,Specialis_csapat]
+                                   0                           1 
+   379 NemVegezhetuUgyanAzEgymasUtan[3,Videozas]
+                                   0                           1 
+   380 NemVegezhetuUgyanAzEgymasUtan[3,Kontaktnelkuli]
+                                   1                           1 
+   381 NemVegezhetuUgyanAzEgymasUtan[3,Kontakt]
+                                   0                           1 
+   382 NemVegezhetuUgyanAzEgymasUtan[4,Konditerem]
+                                   1                           1 
+   383 NemVegezhetuUgyanAzEgymasUtan[4,Futojatek]
+                                   0                           1 
+   384 NemVegezhetuUgyanAzEgymasUtan[4,Passzjatek]
+                                   0                           1 
+   385 NemVegezhetuUgyanAzEgymasUtan[4,Specialis_csapat]
+                                   0                           1 
+   386 NemVegezhetuUgyanAzEgymasUtan[4,Videozas]
+                                   0                           1 
+   387 NemVegezhetuUgyanAzEgymasUtan[4,Kontaktnelkuli]
+                                   1                           1 
+   388 NemVegezhetuUgyanAzEgymasUtan[4,Kontakt]
+                                   0                           1 
+   389 NemVegezhetuUgyanAzEgymasUtan[5,Konditerem]
+                                   1                           1 
+   390 NemVegezhetuUgyanAzEgymasUtan[5,Futojatek]
+                                   0                           1 
+   391 NemVegezhetuUgyanAzEgymasUtan[5,Passzjatek]
+                                   1                           1 
+   392 NemVegezhetuUgyanAzEgymasUtan[5,Specialis_csapat]
+                                   0                           1 
+   393 NemVegezhetuUgyanAzEgymasUtan[5,Videozas]
+                                   0                           1 
+   394 NemVegezhetuUgyanAzEgymasUtan[5,Kontaktnelkuli]
+                                   0                           1 
+   395 NemVegezhetuUgyanAzEgymasUtan[5,Kontakt]
+                                   0                           1 
+   396 NemVegezhetuUgyanAzEgymasUtan[6,Konditerem]
+                                   0                           1 
+   397 NemVegezhetuUgyanAzEgymasUtan[6,Futojatek]
+                                   1                           1 
+   398 NemVegezhetuUgyanAzEgymasUtan[6,Passzjatek]
+                                   1                           1 
+   399 NemVegezhetuUgyanAzEgymasUtan[6,Specialis_csapat]
+                                   0                           1 
+   400 NemVegezhetuUgyanAzEgymasUtan[6,Videozas]
+                                   0                           1 
+   401 NemVegezhetuUgyanAzEgymasUtan[6,Kontaktnelkuli]
+                                   0                           1 
+   402 NemVegezhetuUgyanAzEgymasUtan[6,Kontakt]
+                                   0                           1 
+   403 NemVegezhetuUgyanAzEgymasUtan[7,Konditerem]
+                                   0                           1 
+   404 NemVegezhetuUgyanAzEgymasUtan[7,Futojatek]
+                                   1                           1 
+   405 NemVegezhetuUgyanAzEgymasUtan[7,Passzjatek]
+                                   1                           1 
+   406 NemVegezhetuUgyanAzEgymasUtan[7,Specialis_csapat]
+                                   0                           1 
+   407 NemVegezhetuUgyanAzEgymasUtan[7,Videozas]
+                                   0                           1 
+   408 NemVegezhetuUgyanAzEgymasUtan[7,Kontaktnelkuli]
+                                   0                           1 
+   409 NemVegezhetuUgyanAzEgymasUtan[7,Kontakt]
+                                   0                           1 
+   410 NemVegezhetuUgyanAzEgymasUtan[8,Konditerem]
+                                   0                           1 
+   411 NemVegezhetuUgyanAzEgymasUtan[8,Futojatek]
+                                   1                           1 
+   412 NemVegezhetuUgyanAzEgymasUtan[8,Passzjatek]
+                                   1                           1 
+   413 NemVegezhetuUgyanAzEgymasUtan[8,Specialis_csapat]
+                                   0                           1 
+   414 NemVegezhetuUgyanAzEgymasUtan[8,Videozas]
+                                   0                           1 
+   415 NemVegezhetuUgyanAzEgymasUtan[8,Kontaktnelkuli]
+                                   0                           1 
+   416 NemVegezhetuUgyanAzEgymasUtan[8,Kontakt]
+                                   0                           1 
+   417 NemVegezhetuUgyanAzEgymasUtan[9,Konditerem]
+                                   1                           1 
+   418 NemVegezhetuUgyanAzEgymasUtan[9,Futojatek]
+                                   1                           1 
+   419 NemVegezhetuUgyanAzEgymasUtan[9,Passzjatek]
+                                   0                           1 
+   420 NemVegezhetuUgyanAzEgymasUtan[9,Specialis_csapat]
+                                   0                           1 
+   421 NemVegezhetuUgyanAzEgymasUtan[9,Videozas]
+                                   0                           1 
+   422 NemVegezhetuUgyanAzEgymasUtan[9,Kontaktnelkuli]
+                                   0                           1 
+   423 NemVegezhetuUgyanAzEgymasUtan[9,Kontakt]
+                                   0                           1 
+   424 NemVegezhetuUgyanAzEgymasUtan[10,Konditerem]
+                                   1                           1 
+   425 NemVegezhetuUgyanAzEgymasUtan[10,Futojatek]
+                                   0                           1 
+   426 NemVegezhetuUgyanAzEgymasUtan[10,Passzjatek]
+                                   1                           1 
+   427 NemVegezhetuUgyanAzEgymasUtan[10,Specialis_csapat]
+                                   0                           1 
+   428 NemVegezhetuUgyanAzEgymasUtan[10,Videozas]
+                                   0                           1 
+   429 NemVegezhetuUgyanAzEgymasUtan[10,Kontaktnelkuli]
+                                   0                           1 
+   430 NemVegezhetuUgyanAzEgymasUtan[10,Kontakt]
+                                   0                           1 
+   431 NemVegezhetuUgyanAzEgymasUtan[11,Konditerem]
+                                   0                           1 
+   432 NemVegezhetuUgyanAzEgymasUtan[11,Futojatek]
+                                   0                           1 
+   433 NemVegezhetuUgyanAzEgymasUtan[11,Passzjatek]
+                                   1                           1 
+   434 NemVegezhetuUgyanAzEgymasUtan[11,Specialis_csapat]
+                                   0                           1 
+   435 NemVegezhetuUgyanAzEgymasUtan[11,Videozas]
+                                   0                           1 
+   436 NemVegezhetuUgyanAzEgymasUtan[11,Kontaktnelkuli]
+                                   1                           1 
+   437 NemVegezhetuUgyanAzEgymasUtan[11,Kontakt]
+                                   0                           1 
+   438 NemVegezhetuUgyanAzEgymasUtan[12,Konditerem]
+                                   0                           1 
+   439 NemVegezhetuUgyanAzEgymasUtan[12,Futojatek]
+                                   0                           1 
+   440 NemVegezhetuUgyanAzEgymasUtan[12,Passzjatek]
+                                   0                           1 
+   441 NemVegezhetuUgyanAzEgymasUtan[12,Specialis_csapat]
+                                   0                           1 
+   442 NemVegezhetuUgyanAzEgymasUtan[12,Videozas]
+                                   0                           1 
+   443 NemVegezhetuUgyanAzEgymasUtan[12,Kontaktnelkuli]
+                                   1                           1 
+   444 NemVegezhetuUgyanAzEgymasUtan[12,Kontakt]
+                                   1                           1 
+   445 NemVegezhetuUgyanAzEgymasUtan[13,Konditerem]
+                                   0                           1 
+   446 NemVegezhetuUgyanAzEgymasUtan[13,Futojatek]
+                                   0                           1 
+   447 NemVegezhetuUgyanAzEgymasUtan[13,Passzjatek]
+                                   0                           1 
+   448 NemVegezhetuUgyanAzEgymasUtan[13,Specialis_csapat]
+                                   0                           1 
+   449 NemVegezhetuUgyanAzEgymasUtan[13,Videozas]
+                                   1                           1 
+   450 NemVegezhetuUgyanAzEgymasUtan[13,Kontaktnelkuli]
+                                   0                           1 
+   451 NemVegezhetuUgyanAzEgymasUtan[13,Kontakt]
+                                   1                           1 
+   452 NemVegezhetuUgyanAzEgymasUtan[14,Konditerem]
+                                   0                           1 
+   453 NemVegezhetuUgyanAzEgymasUtan[14,Futojatek]
+                                   0                           1 
+   454 NemVegezhetuUgyanAzEgymasUtan[14,Passzjatek]
+                                   1                           1 
+   455 NemVegezhetuUgyanAzEgymasUtan[14,Specialis_csapat]
+                                   0                           1 
+   456 NemVegezhetuUgyanAzEgymasUtan[14,Videozas]
+                                   1                           1 
+   457 NemVegezhetuUgyanAzEgymasUtan[14,Kontaktnelkuli]
+                                   0                           1 
+   458 NemVegezhetuUgyanAzEgymasUtan[14,Kontakt]
+                                   0                           1 
+   459 NemVegezhetuUgyanAzEgymasUtan[15,Konditerem]
+                                   0                           1 
+   460 NemVegezhetuUgyanAzEgymasUtan[15,Futojatek]
+                                   0                           1 
+   461 NemVegezhetuUgyanAzEgymasUtan[15,Passzjatek]
+                                   1                           1 
+   462 NemVegezhetuUgyanAzEgymasUtan[15,Specialis_csapat]
+                                   0                           1 
+   463 NemVegezhetuUgyanAzEgymasUtan[15,Videozas]
+                                   0                           1 
+   464 NemVegezhetuUgyanAzEgymasUtan[15,Kontaktnelkuli]
+                                   0                           1 
+   465 NemVegezhetuUgyanAzEgymasUtan[15,Kontakt]
+                                   1                           1 
+   466 NemVegezhetuUgyanAzEgymasUtan[16,Konditerem]
+                                   0                           1 
+   467 NemVegezhetuUgyanAzEgymasUtan[16,Futojatek]
+                                   0                           1 
+   468 NemVegezhetuUgyanAzEgymasUtan[16,Passzjatek]
+                                   0                           1 
+   469 NemVegezhetuUgyanAzEgymasUtan[16,Specialis_csapat]
+                                   0                           1 
+   470 NemVegezhetuUgyanAzEgymasUtan[16,Videozas]
+                                   0                           1 
+   471 NemVegezhetuUgyanAzEgymasUtan[16,Kontaktnelkuli]
+                                   0                           1 
+   472 NemVegezhetuUgyanAzEgymasUtan[16,Kontakt]
+                                   1                           1 
+   473 NemVegezhetuUgyanAzEgymasUtan[17,Konditerem]
+                                   0                           1 
+   474 NemVegezhetuUgyanAzEgymasUtan[17,Futojatek]
+                                   0                           1 
+   475 NemVegezhetuUgyanAzEgymasUtan[17,Passzjatek]
+                                   1                           1 
+   476 NemVegezhetuUgyanAzEgymasUtan[17,Specialis_csapat]
+                                   0                           1 
+   477 NemVegezhetuUgyanAzEgymasUtan[17,Videozas]
+                                   0                           1 
+   478 NemVegezhetuUgyanAzEgymasUtan[17,Kontaktnelkuli]
+                                   0                           1 
+   479 NemVegezhetuUgyanAzEgymasUtan[17,Kontakt]
+                                   0                           1 
+   480 NemVegezhetuUgyanAzEgymasUtan[18,Konditerem]
+                                   0                           1 
+   481 NemVegezhetuUgyanAzEgymasUtan[18,Futojatek]
+                                   0                           1 
+   482 NemVegezhetuUgyanAzEgymasUtan[18,Passzjatek]
+                                   1                           1 
+   483 NemVegezhetuUgyanAzEgymasUtan[18,Specialis_csapat]
+                                   0                           1 
+   484 NemVegezhetuUgyanAzEgymasUtan[18,Videozas]
+                                   0                           1 
+   485 NemVegezhetuUgyanAzEgymasUtan[18,Kontaktnelkuli]
+                                   1                           1 
+   486 NemVegezhetuUgyanAzEgymasUtan[18,Kontakt]
+                                   0                           1 
+   487 NemVegezhetuUgyanAzEgymasUtan[19,Konditerem]
+                                   0                           1 
+   488 NemVegezhetuUgyanAzEgymasUtan[19,Futojatek]
+                                   0                           1 
+   489 NemVegezhetuUgyanAzEgymasUtan[19,Passzjatek]
+                                   1                           1 
+   490 NemVegezhetuUgyanAzEgymasUtan[19,Specialis_csapat]
+                                   0                           1 
+   491 NemVegezhetuUgyanAzEgymasUtan[19,Videozas]
+                                   0                           1 
+   492 NemVegezhetuUgyanAzEgymasUtan[19,Kontaktnelkuli]
+                                   1                           1 
+   493 NemVegezhetuUgyanAzEgymasUtan[19,Kontakt]
+                                   0                           1 
+   494 NemVegezhetuUgyanAzEgymasUtan[20,Konditerem]
+                                   0                           1 
+   495 NemVegezhetuUgyanAzEgymasUtan[20,Futojatek]
+                                   1                           1 
+   496 NemVegezhetuUgyanAzEgymasUtan[20,Passzjatek]
+                                   1                           1 
+   497 NemVegezhetuUgyanAzEgymasUtan[20,Specialis_csapat]
+                                   0                           1 
+   498 NemVegezhetuUgyanAzEgymasUtan[20,Videozas]
+                                   0                           1 
+   499 NemVegezhetuUgyanAzEgymasUtan[20,Kontaktnelkuli]
+                                   0                           1 
+   500 NemVegezhetuUgyanAzEgymasUtan[20,Kontakt]
+                                   0                           1 
+   501 NemVegezhetuUgyanAzEgymasUtan[21,Konditerem]
+                                   0                           1 
+   502 NemVegezhetuUgyanAzEgymasUtan[21,Futojatek]
+                                   1                           1 
+   503 NemVegezhetuUgyanAzEgymasUtan[21,Passzjatek]
+                                   1                           1 
+   504 NemVegezhetuUgyanAzEgymasUtan[21,Specialis_csapat]
+                                   0                           1 
+   505 NemVegezhetuUgyanAzEgymasUtan[21,Videozas]
+                                   0                           1 
+   506 NemVegezhetuUgyanAzEgymasUtan[21,Kontaktnelkuli]
+                                   0                           1 
+   507 NemVegezhetuUgyanAzEgymasUtan[21,Kontakt]
+                                   0                           1 
+   508 NemVegezhetuUgyanAzEgymasUtan[22,Konditerem]
+                                   0                           1 
+   509 NemVegezhetuUgyanAzEgymasUtan[22,Futojatek]
+                                   0                           1 
+   510 NemVegezhetuUgyanAzEgymasUtan[22,Passzjatek]
+                                   1                           1 
+   511 NemVegezhetuUgyanAzEgymasUtan[22,Specialis_csapat]
+                                   0                           1 
+   512 NemVegezhetuUgyanAzEgymasUtan[22,Videozas]
+                                   0                           1 
+   513 NemVegezhetuUgyanAzEgymasUtan[22,Kontaktnelkuli]
+                                   1                           1 
+   514 NemVegezhetuUgyanAzEgymasUtan[22,Kontakt]
+                                   0                           1 
+   515 NemVegezhetuUgyanAzEgymasUtan[23,Konditerem]
+                                   0                           1 
+   516 NemVegezhetuUgyanAzEgymasUtan[23,Futojatek]
+                                   0                           1 
+   517 NemVegezhetuUgyanAzEgymasUtan[23,Passzjatek]
+                                   0                           1 
+   518 NemVegezhetuUgyanAzEgymasUtan[23,Specialis_csapat]
+                                   0                           1 
+   519 NemVegezhetuUgyanAzEgymasUtan[23,Videozas]
+                                   0                           1 
+   520 NemVegezhetuUgyanAzEgymasUtan[23,Kontaktnelkuli]
+                                   1                           1 
+   521 NemVegezhetuUgyanAzEgymasUtan[23,Kontakt]
+                                   1                           1 
+   522 NemVegezhetuUgyanAzEgymasUtan[24,Konditerem]
+                                   0                           1 
+   523 NemVegezhetuUgyanAzEgymasUtan[24,Futojatek]
+                                   0                           1 
+   524 NemVegezhetuUgyanAzEgymasUtan[24,Passzjatek]
+                                   0                           1 
+   525 NemVegezhetuUgyanAzEgymasUtan[24,Specialis_csapat]
+                                   0                           1 
+   526 NemVegezhetuUgyanAzEgymasUtan[24,Videozas]
+                                   1                           1 
+   527 NemVegezhetuUgyanAzEgymasUtan[24,Kontaktnelkuli]
+                                   0                           1 
+   528 NemVegezhetuUgyanAzEgymasUtan[24,Kontakt]
+                                   1                           1 
+   529 NemVegezhetuUgyanAzEgymasUtan[25,Konditerem]
+                                   0                           1 
+   530 NemVegezhetuUgyanAzEgymasUtan[25,Futojatek]
+                                   0                           1 
+   531 NemVegezhetuUgyanAzEgymasUtan[25,Passzjatek]
+                                   1                           1 
+   532 NemVegezhetuUgyanAzEgymasUtan[25,Specialis_csapat]
+                                   0                           1 
+   533 NemVegezhetuUgyanAzEgymasUtan[25,Videozas]
+                                   1                           1 
+   534 NemVegezhetuUgyanAzEgymasUtan[25,Kontaktnelkuli]
+                                   0                           1 
+   535 NemVegezhetuUgyanAzEgymasUtan[25,Kontakt]
+                                   0                           1 
+   536 NemVegezhetuUgyanAzEgymasUtan[26,Konditerem]
+                                   0                           1 
+   537 NemVegezhetuUgyanAzEgymasUtan[26,Futojatek]
+                                   0                           1 
+   538 NemVegezhetuUgyanAzEgymasUtan[26,Passzjatek]
+                                   1                           1 
+   539 NemVegezhetuUgyanAzEgymasUtan[26,Specialis_csapat]
+                                   0                           1 
+   540 NemVegezhetuUgyanAzEgymasUtan[26,Videozas]
+                                   0                           1 
+   541 NemVegezhetuUgyanAzEgymasUtan[26,Kontaktnelkuli]
+                                   1                           1 
+   542 NemVegezhetuUgyanAzEgymasUtan[26,Kontakt]
+                                   0                           1 
+   543 NemVegezhetuUgyanAzEgymasUtan[27,Konditerem]
+                                   0                           1 
+   544 NemVegezhetuUgyanAzEgymasUtan[27,Futojatek]
+                                   0                           1 
+   545 NemVegezhetuUgyanAzEgymasUtan[27,Passzjatek]
+                                   1                           1 
+   546 NemVegezhetuUgyanAzEgymasUtan[27,Specialis_csapat]
+                                   0                           1 
+   547 NemVegezhetuUgyanAzEgymasUtan[27,Videozas]
+                                   0                           1 
+   548 NemVegezhetuUgyanAzEgymasUtan[27,Kontaktnelkuli]
+                                   1                           1 
+   549 NemVegezhetuUgyanAzEgymasUtan[27,Kontakt]
+                                   0                           1 
+   550 NemVegezhetuUgyanAzEgymasUtan[28,Konditerem]
+                                   0                           1 
+   551 NemVegezhetuUgyanAzEgymasUtan[28,Futojatek]
+                                   0                           1 
+   552 NemVegezhetuUgyanAzEgymasUtan[28,Passzjatek]
+                                   1                           1 
+   553 NemVegezhetuUgyanAzEgymasUtan[28,Specialis_csapat]
+                                   0                           1 
+   554 NemVegezhetuUgyanAzEgymasUtan[28,Videozas]
+                                   0                           1 
+   555 NemVegezhetuUgyanAzEgymasUtan[28,Kontaktnelkuli]
+                                   1                           1 
+   556 NemVegezhetuUgyanAzEgymasUtan[28,Kontakt]
+                                   0                           1 
+   557 NemVegezhetuUgyanAzEgymasUtan[29,Konditerem]
+                                   0                           1 
+   558 NemVegezhetuUgyanAzEgymasUtan[29,Futojatek]
+                                   0                           1 
+   559 NemVegezhetuUgyanAzEgymasUtan[29,Passzjatek]
+                                   1                           1 
+   560 NemVegezhetuUgyanAzEgymasUtan[29,Specialis_csapat]
+                                   0                           1 
+   561 NemVegezhetuUgyanAzEgymasUtan[29,Videozas]
+                                   0                           1 
+   562 NemVegezhetuUgyanAzEgymasUtan[29,Kontaktnelkuli]
+                                   1                           1 
+   563 NemVegezhetuUgyanAzEgymasUtan[29,Kontakt]
+                                   0                           1 
+   564 NemVegezhetuUgyanAzEgymasUtan[30,Konditerem]
+                                   0                           1 
+   565 NemVegezhetuUgyanAzEgymasUtan[30,Futojatek]
+                                   1                           1 
+   566 NemVegezhetuUgyanAzEgymasUtan[30,Passzjatek]
+                                   1                           1 
+   567 NemVegezhetuUgyanAzEgymasUtan[30,Specialis_csapat]
+                                   0                           1 
+   568 NemVegezhetuUgyanAzEgymasUtan[30,Videozas]
+                                   0                           1 
+   569 NemVegezhetuUgyanAzEgymasUtan[30,Kontaktnelkuli]
+                                   0                           1 
+   570 NemVegezhetuUgyanAzEgymasUtan[30,Kontakt]
+                                   0                           1 
+   571 NemVegezhetuUgyanAzEgymasUtan[31,Konditerem]
+                                   0                           1 
+   572 NemVegezhetuUgyanAzEgymasUtan[31,Futojatek]
+                                   1                           1 
+   573 NemVegezhetuUgyanAzEgymasUtan[31,Passzjatek]
+                                   1                           1 
+   574 NemVegezhetuUgyanAzEgymasUtan[31,Specialis_csapat]
+                                   0                           1 
+   575 NemVegezhetuUgyanAzEgymasUtan[31,Videozas]
+                                   0                           1 
+   576 NemVegezhetuUgyanAzEgymasUtan[31,Kontaktnelkuli]
+                                   0                           1 
+   577 NemVegezhetuUgyanAzEgymasUtan[31,Kontakt]
+                                   0                           1 
+   578 NemVegezhetuUgyanAzEgymasUtan[32,Konditerem]
+                                   0                           1 
+   579 NemVegezhetuUgyanAzEgymasUtan[32,Futojatek]
+                                   1                           1 
+   580 NemVegezhetuUgyanAzEgymasUtan[32,Passzjatek]
+                                   1                           1 
+   581 NemVegezhetuUgyanAzEgymasUtan[32,Specialis_csapat]
+                                   0                           1 
+   582 NemVegezhetuUgyanAzEgymasUtan[32,Videozas]
+                                   0                           1 
+   583 NemVegezhetuUgyanAzEgymasUtan[32,Kontaktnelkuli]
+                                   0                           1 
+   584 NemVegezhetuUgyanAzEgymasUtan[32,Kontakt]
+                                   0                           1 
+   585 NemVegezhetuUgyanAzEgymasUtan[33,Konditerem]
+                                   0                           1 
+   586 NemVegezhetuUgyanAzEgymasUtan[33,Futojatek]
+                                   1                           1 
+   587 NemVegezhetuUgyanAzEgymasUtan[33,Passzjatek]
+                                   1                           1 
+   588 NemVegezhetuUgyanAzEgymasUtan[33,Specialis_csapat]
+                                   0                           1 
+   589 NemVegezhetuUgyanAzEgymasUtan[33,Videozas]
+                                   0                           1 
+   590 NemVegezhetuUgyanAzEgymasUtan[33,Kontaktnelkuli]
+                                   0                           1 
+   591 NemVegezhetuUgyanAzEgymasUtan[33,Kontakt]
+                                   0                           1 
+   592 NemVegezhetuUgyanAzEgymasUtan[34,Konditerem]
+                                   0                           1 
+   593 NemVegezhetuUgyanAzEgymasUtan[34,Futojatek]
+                                   0                           1 
+   594 NemVegezhetuUgyanAzEgymasUtan[34,Passzjatek]
+                                   1                           1 
+   595 NemVegezhetuUgyanAzEgymasUtan[34,Specialis_csapat]
+                                   1                           1 
+   596 NemVegezhetuUgyanAzEgymasUtan[34,Videozas]
+                                   0                           1 
+   597 NemVegezhetuUgyanAzEgymasUtan[34,Kontaktnelkuli]
+                                   0                           1 
+   598 NemVegezhetuUgyanAzEgymasUtan[34,Kontakt]
+                                   0                           1 
+   599 NemVegezhetuUgyanAzEgymasUtan[35,Konditerem]
+                                   0                           1 
+   600 NemVegezhetuUgyanAzEgymasUtan[35,Futojatek]
+                                   0                           1 
+   601 NemVegezhetuUgyanAzEgymasUtan[35,Passzjatek]
+                                   1                           1 
+   602 NemVegezhetuUgyanAzEgymasUtan[35,Specialis_csapat]
+                                   1                           1 
+   603 NemVegezhetuUgyanAzEgymasUtan[35,Videozas]
+                                   0                           1 
+   604 NemVegezhetuUgyanAzEgymasUtan[35,Kontaktnelkuli]
+                                   0                           1 
+   605 NemVegezhetuUgyanAzEgymasUtan[35,Kontakt]
+                                   0                           1 
+   606 NemVegezhetuUgyanAzEgymasUtan[36,Konditerem]
+                                   1                           1 
+   607 NemVegezhetuUgyanAzEgymasUtan[36,Futojatek]
+                                   0                           1 
+   608 NemVegezhetuUgyanAzEgymasUtan[36,Passzjatek]
+                                   1                           1 
+   609 NemVegezhetuUgyanAzEgymasUtan[36,Specialis_csapat]
+                                   0                           1 
+   610 NemVegezhetuUgyanAzEgymasUtan[36,Videozas]
+                                   0                           1 
+   611 NemVegezhetuUgyanAzEgymasUtan[36,Kontaktnelkuli]
+                                   0                           1 
+   612 NemVegezhetuUgyanAzEgymasUtan[36,Kontakt]
+                                   0                           1 
+   613 NemVegezhetuUgyanAzEgymasUtan[37,Konditerem]
+                                   1                           1 
+   614 NemVegezhetuUgyanAzEgymasUtan[37,Futojatek]
+                                   0                           1 
+   615 NemVegezhetuUgyanAzEgymasUtan[37,Passzjatek]
+                                   1                           1 
+   616 NemVegezhetuUgyanAzEgymasUtan[37,Specialis_csapat]
+                                   0                           1 
+   617 NemVegezhetuUgyanAzEgymasUtan[37,Videozas]
+                                   0                           1 
+   618 NemVegezhetuUgyanAzEgymasUtan[37,Kontaktnelkuli]
+                                   0                           1 
+   619 NemVegezhetuUgyanAzEgymasUtan[37,Kontakt]
+                                   0                           1 
+   620 NemVegezhetuUgyanAzEgymasUtan[38,Konditerem]
+                                   0                           1 
+   621 NemVegezhetuUgyanAzEgymasUtan[38,Futojatek]
+                                   0                           1 
+   622 NemVegezhetuUgyanAzEgymasUtan[38,Passzjatek]
+                                   1                           1 
+   623 NemVegezhetuUgyanAzEgymasUtan[38,Specialis_csapat]
+                                   0                           1 
+   624 NemVegezhetuUgyanAzEgymasUtan[38,Videozas]
+                                   0                           1 
+   625 NemVegezhetuUgyanAzEgymasUtan[38,Kontaktnelkuli]
+                                   1                           1 
+   626 NemVegezhetuUgyanAzEgymasUtan[38,Kontakt]
+                                   0                           1 
+   627 NemVegezhetuUgyanAzEgymasUtan[39,Konditerem]
+                                   0                           1 
+   628 NemVegezhetuUgyanAzEgymasUtan[39,Futojatek]
+                                   0                           1 
+   629 NemVegezhetuUgyanAzEgymasUtan[39,Passzjatek]
+                                   1                           1 
+   630 NemVegezhetuUgyanAzEgymasUtan[39,Specialis_csapat]
+                                   0                           1 
+   631 NemVegezhetuUgyanAzEgymasUtan[39,Videozas]
+                                   0                           1 
+   632 NemVegezhetuUgyanAzEgymasUtan[39,Kontaktnelkuli]
+                                   1                           1 
+   633 NemVegezhetuUgyanAzEgymasUtan[39,Kontakt]
+                                   0                           1 
+   634 NemVegezhetuUgyanAzEgymasUtan[40,Konditerem]
+                                   0                           1 
+   635 NemVegezhetuUgyanAzEgymasUtan[40,Futojatek]
+                                   0                           1 
+   636 NemVegezhetuUgyanAzEgymasUtan[40,Passzjatek]
+                                   1                           1 
+   637 NemVegezhetuUgyanAzEgymasUtan[40,Specialis_csapat]
+                                   0                           1 
+   638 NemVegezhetuUgyanAzEgymasUtan[40,Videozas]
+                                   0                           1 
+   639 NemVegezhetuUgyanAzEgymasUtan[40,Kontaktnelkuli]
+                                   1                           1 
+   640 NemVegezhetuUgyanAzEgymasUtan[40,Kontakt]
+                                   0                           1 
+   641 NemVegezhetuUgyanAzEgymasUtan[41,Konditerem]
+                                   0                           1 
+   642 NemVegezhetuUgyanAzEgymasUtan[41,Futojatek]
+                                   0                           1 
+   643 NemVegezhetuUgyanAzEgymasUtan[41,Passzjatek]
+                                   1                           1 
+   644 NemVegezhetuUgyanAzEgymasUtan[41,Specialis_csapat]
+                                   0                           1 
+   645 NemVegezhetuUgyanAzEgymasUtan[41,Videozas]
+                                   0                           1 
+   646 NemVegezhetuUgyanAzEgymasUtan[41,Kontaktnelkuli]
+                                   1                           1 
+   647 NemVegezhetuUgyanAzEgymasUtan[41,Kontakt]
+                                   0                           1 
+   648 NemVegezhetuUgyanAzEgymasUtan[42,Konditerem]
+                                   0                           1 
+   649 NemVegezhetuUgyanAzEgymasUtan[42,Futojatek]
+                                   0                           1 
+   650 NemVegezhetuUgyanAzEgymasUtan[42,Passzjatek]
+                                   1                           1 
+   651 NemVegezhetuUgyanAzEgymasUtan[42,Specialis_csapat]
+                                   0                           1 
+   652 NemVegezhetuUgyanAzEgymasUtan[42,Videozas]
+                                   0                           1 
+   653 NemVegezhetuUgyanAzEgymasUtan[42,Kontaktnelkuli]
+                                   0                           1 
+   654 NemVegezhetuUgyanAzEgymasUtan[42,Kontakt]
+                                   1                           1 
+   655 NemVegezhetuUgyanAzEgymasUtan[43,Konditerem]
+                                   0                           1 
+   656 NemVegezhetuUgyanAzEgymasUtan[43,Futojatek]
+                                   0                           1 
+   657 NemVegezhetuUgyanAzEgymasUtan[43,Passzjatek]
+                                   0                           1 
+   658 NemVegezhetuUgyanAzEgymasUtan[43,Specialis_csapat]
+                                   0                           1 
+   659 NemVegezhetuUgyanAzEgymasUtan[43,Videozas]
+                                   1                           1 
+   660 NemVegezhetuUgyanAzEgymasUtan[43,Kontaktnelkuli]
+                                   0                           1 
+   661 NemVegezhetuUgyanAzEgymasUtan[43,Kontakt]
+                                   1                           1 
+   662 NemVegezhetuUgyanAzEgymasUtan[44,Konditerem]
+                                   0                           1 
+   663 NemVegezhetuUgyanAzEgymasUtan[44,Futojatek]
+                                   0                           1 
+   664 NemVegezhetuUgyanAzEgymasUtan[44,Passzjatek]
+                                   0                           1 
+   665 NemVegezhetuUgyanAzEgymasUtan[44,Specialis_csapat]
+                                   0                           1 
+   666 NemVegezhetuUgyanAzEgymasUtan[44,Videozas]
+                                   1                           1 
+   667 NemVegezhetuUgyanAzEgymasUtan[44,Kontaktnelkuli]
+                                   0                           1 
+   668 NemVegezhetuUgyanAzEgymasUtan[44,Kontakt]
+                                   1                           1 
+   669 AzEdzesekkelToltottIdo[Konditerem]
+                                   0            -0             = 
+   670 AzEdzesekkelToltottIdo[Futojatek]
+                                   0            -0             = 
+   671 AzEdzesekkelToltottIdo[Passzjatek]
+                                   0            -0             = 
+   672 AzEdzesekkelToltottIdo[Specialis_csapat]
+                                   0            -0             = 
+   673 AzEdzesekkelToltottIdo[Videozas]
+                                   0            -0             = 
+   674 AzEdzesekkelToltottIdo[Kontaktnelkuli]
+                                   0            -0             = 
+   675 AzEdzesekkelToltottIdo[Kontakt]
+                                   0            -0             = 
+   676 LegalabbAnnyiIdoMintAmennyiMegVanAdva[Konditerem]
+                                  13            13               
+   677 LegalabbAnnyiIdoMintAmennyiMegVanAdva[Futojatek]
+                                10.5            10               
+   678 LegalabbAnnyiIdoMintAmennyiMegVanAdva[Passzjatek]
+                                36.4            10               
+   679 LegalabbAnnyiIdoMintAmennyiMegVanAdva[Specialis_csapat]
+                                 4.4             4               
+   680 LegalabbAnnyiIdoMintAmennyiMegVanAdva[Videozas]
+                                   8             7               
+   681 LegalabbAnnyiIdoMintAmennyiMegVanAdva[Kontaktnelkuli]
+                                25.1            25               
+   682 LegalabbAnnyiIdoMintAmennyiMegVanAdva[Kontakt]
+                                20.1            20               
+   683 KontaktUtanVideozas[1]
+                                   1                           1 
+   684 KontaktUtanVideozas[2]
+                                   1                           1 
+   685 KontaktUtanVideozas[3]
+                                   1                           1 
+   686 KontaktUtanVideozas[4]
+                                   1                           1 
+   687 KontaktUtanVideozas[5]
+                                   1                           1 
+   688 KontaktUtanVideozas[6]
+                                   1                           1 
+   689 KontaktUtanVideozas[7]
+                                   1                           1 
+   690 KontaktUtanVideozas[8]
+                                   1                           1 
+   691 KontaktUtanVideozas[9]
+                                   1                           1 
+   692 KontaktUtanVideozas[10]
+                                   1                           1 
+   693 KontaktUtanVideozas[11]
+                                   1                           1 
+   694 KontaktUtanVideozas[12]
+                                   0                           1 
+   695 KontaktUtanVideozas[13]
+                                   1                           1 
+   696 KontaktUtanVideozas[14]
+                                   1                           1 
+   697 KontaktUtanVideozas[15]
+                                   0                           1 
+   698 KontaktUtanVideozas[16]
+                                   1                           1 
+   699 KontaktUtanVideozas[17]
+                                   1                           1 
+   700 KontaktUtanVideozas[18]
+                                   1                           1 
+   701 KontaktUtanVideozas[19]
+                                   1                           1 
+   702 KontaktUtanVideozas[20]
+                                   1                           1 
+   703 KontaktUtanVideozas[21]
+                                   1                           1 
+   704 KontaktUtanVideozas[22]
+                                   1                           1 
+   705 KontaktUtanVideozas[23]
+                                   0                           1 
+   706 KontaktUtanVideozas[24]
+                                   1                           1 
+   707 KontaktUtanVideozas[25]
+                                   1                           1 
+   708 KontaktUtanVideozas[26]
+                                   1                           1 
+   709 KontaktUtanVideozas[27]
+                                   1                           1 
+   710 KontaktUtanVideozas[28]
+                                   1                           1 
+   711 KontaktUtanVideozas[29]
+                                   1                           1 
+   712 KontaktUtanVideozas[30]
+                                   1                           1 
+   713 KontaktUtanVideozas[31]
+                                   1                           1 
+   714 KontaktUtanVideozas[32]
+                                   1                           1 
+   715 KontaktUtanVideozas[33]
+                                   1                           1 
+   716 KontaktUtanVideozas[34]
+                                   1                           1 
+   717 KontaktUtanVideozas[35]
+                                   1                           1 
+   718 KontaktUtanVideozas[36]
+                                   1                           1 
+   719 KontaktUtanVideozas[37]
+                                   1                           1 
+   720 KontaktUtanVideozas[38]
+                                   1                           1 
+   721 KontaktUtanVideozas[39]
+                                   1                           1 
+   722 KontaktUtanVideozas[40]
+                                   1                           1 
+   723 KontaktUtanVideozas[41]
+                                   1                           1 
+   724 KontaktUtanVideozas[42]
+                                   0                           1 
+   725 KontaktUtanVideozas[43]
+                                   1                           1 
+   726 KontaktUtanVideozas[44]
+                                   0                           1 
+   727 KonditeremZarva[20]
+                                   0            -0             = 
+   728 KonditeremZarva[21]
+                                   0            -0             = 
+   729 KonditeremZarva[22]
+                                   0            -0             = 
+   730 KonditeremZarva[23]
+                                   0            -0             = 
+   731 KonditeremZarva[24]
+                                   0            -0             = 
+   732 KonditeremZarva[25]
+                                   0            -0             = 
+   733 KonditeremZarva[26]
+                                   0            -0             = 
+   734 KonditeremZarva[27]
+                                   0            -0             = 
+   735 KoltsegSzamitas[Konditerem]
+                                   0            -0             = 
+   736 KoltsegSzamitas[Futojatek]
+                                   0            -0             = 
+   737 KoltsegSzamitas[Passzjatek]
+                                   0            -0             = 
+   738 KoltsegSzamitas[Specialis_csapat]
+                                   0            -0             = 
+   739 KoltsegSzamitas[Videozas]
+                                   0            -0             = 
+   740 KoltsegSzamitas[Kontaktnelkuli]
+                                   0            -0             = 
+   741 KoltsegSzamitas[Kontakt]
+                                   0            -0             = 
+   742 NeLegyenTobbMint
+                               24000                       30000 
+   743 EgyForeJutoKoltseg
+                                3175                        3200 
+   744 JatekTervBetanulasavalToltottIdo
+                                  24                             
+
+   No. Column name       Activity     Lower bound   Upper bound
+------ ------------    ------------- ------------- -------------
+     1 edzesselToltottIdo[Konditerem]
+                                  13                             
+     2 edzesselToltottIdo[Futojatek]
+                                10.5                             
+     3 edzesselToltottIdo[Passzjatek]
+                                36.4                             
+     4 edzesselToltottIdo[Specialis_csapat]
+                                 4.4                             
+     5 edzesselToltottIdo[Videozas]
+                                   8                             
+     6 edzesselToltottIdo[Kontaktnelkuli]
+                                25.1                             
+     7 edzesselToltottIdo[Kontakt]
+                                20.1                             
+     8 melyikEdzesMelyikNap[Konditerem,1]
+                    *              0             0             1 
+     9 melyikEdzesMelyikNap[Futojatek,1]
+                    *              0             0             1 
+    10 melyikEdzesMelyikNap[Passzjatek,1]
+                    *              1             0             1 
+    11 melyikEdzesMelyikNap[Specialis_csapat,1]
+                    *              0             0             1 
+    12 melyikEdzesMelyikNap[Videozas,1]
+                    *              0             0             1 
+    13 melyikEdzesMelyikNap[Kontaktnelkuli,1]
+                    *              0             0             1 
+    14 melyikEdzesMelyikNap[Kontakt,1]
+                    *              0             0             1 
+    15 melyikEdzesMelyikNap[Konditerem,2]
+                    *              0             0             1 
+    16 melyikEdzesMelyikNap[Futojatek,2]
+                    *              1             0             1 
+    17 melyikEdzesMelyikNap[Passzjatek,2]
+                    *              0             0             1 
+    18 melyikEdzesMelyikNap[Specialis_csapat,2]
+                    *              0             0             1 
+    19 melyikEdzesMelyikNap[Videozas,2]
+                    *              0             0             1 
+    20 melyikEdzesMelyikNap[Kontaktnelkuli,2]
+                    *              0             0             1 
+    21 melyikEdzesMelyikNap[Kontakt,2]
+                    *              0             0             1 
+    22 melyikEdzesMelyikNap[Konditerem,3]
+                    *              0             0             1 
+    23 melyikEdzesMelyikNap[Futojatek,3]
+                    *              0             0             1 
+    24 melyikEdzesMelyikNap[Passzjatek,3]
+                    *              1             0             1 
+    25 melyikEdzesMelyikNap[Specialis_csapat,3]
+                    *              0             0             1 
+    26 melyikEdzesMelyikNap[Videozas,3]
+                    *              0             0             1 
+    27 melyikEdzesMelyikNap[Kontaktnelkuli,3]
+                    *              0             0             1 
+    28 melyikEdzesMelyikNap[Kontakt,3]
+                    *              0             0             1 
+    29 melyikEdzesMelyikNap[Konditerem,4]
+                    *              0             0             1 
+    30 melyikEdzesMelyikNap[Futojatek,4]
+                    *              0             0             1 
+    31 melyikEdzesMelyikNap[Passzjatek,4]
+                    *              0             0             1 
+    32 melyikEdzesMelyikNap[Specialis_csapat,4]
+                    *              0             0             1 
+    33 melyikEdzesMelyikNap[Videozas,4]
+                    *              0             0             1 
+    34 melyikEdzesMelyikNap[Kontaktnelkuli,4]
+                    *              1             0             1 
+    35 melyikEdzesMelyikNap[Kontakt,4]
+                    *              0             0             1 
+    36 melyikEdzesMelyikNap[Konditerem,5]
+                    *              1             0             1 
+    37 melyikEdzesMelyikNap[Futojatek,5]
+                    *              0             0             1 
+    38 melyikEdzesMelyikNap[Passzjatek,5]
+                    *              0             0             1 
+    39 melyikEdzesMelyikNap[Specialis_csapat,5]
+                    *              0             0             1 
+    40 melyikEdzesMelyikNap[Videozas,5]
+                    *              0             0             1 
+    41 melyikEdzesMelyikNap[Kontaktnelkuli,5]
+                    *              0             0             1 
+    42 melyikEdzesMelyikNap[Kontakt,5]
+                    *              0             0             1 
+    43 melyikEdzesMelyikNap[Konditerem,6]
+                    *              0             0             1 
+    44 melyikEdzesMelyikNap[Futojatek,6]
+                    *              0             0             1 
+    45 melyikEdzesMelyikNap[Passzjatek,6]
+                    *              1             0             1 
+    46 melyikEdzesMelyikNap[Specialis_csapat,6]
+                    *              0             0             1 
+    47 melyikEdzesMelyikNap[Videozas,6]
+                    *              0             0             1 
+    48 melyikEdzesMelyikNap[Kontaktnelkuli,6]
+                    *              0             0             1 
+    49 melyikEdzesMelyikNap[Kontakt,6]
+                    *              0             0             1 
+    50 melyikEdzesMelyikNap[Konditerem,7]
+                    *              0             0             1 
+    51 melyikEdzesMelyikNap[Futojatek,7]
+                    *              1             0             1 
+    52 melyikEdzesMelyikNap[Passzjatek,7]
+                    *              0             0             1 
+    53 melyikEdzesMelyikNap[Specialis_csapat,7]
+                    *              0             0             1 
+    54 melyikEdzesMelyikNap[Videozas,7]
+                    *              0             0             1 
+    55 melyikEdzesMelyikNap[Kontaktnelkuli,7]
+                    *              0             0             1 
+    56 melyikEdzesMelyikNap[Kontakt,7]
+                    *              0             0             1 
+    57 melyikEdzesMelyikNap[Konditerem,8]
+                    *              0             0             1 
+    58 melyikEdzesMelyikNap[Futojatek,8]
+                    *              0             0             1 
+    59 melyikEdzesMelyikNap[Passzjatek,8]
+                    *              1             0             1 
+    60 melyikEdzesMelyikNap[Specialis_csapat,8]
+                    *              0             0             1 
+    61 melyikEdzesMelyikNap[Videozas,8]
+                    *              0             0             1 
+    62 melyikEdzesMelyikNap[Kontaktnelkuli,8]
+                    *              0             0             1 
+    63 melyikEdzesMelyikNap[Kontakt,8]
+                    *              0             0             1 
+    64 melyikEdzesMelyikNap[Konditerem,9]
+                    *              0             0             1 
+    65 melyikEdzesMelyikNap[Futojatek,9]
+                    *              1             0             1 
+    66 melyikEdzesMelyikNap[Passzjatek,9]
+                    *              0             0             1 
+    67 melyikEdzesMelyikNap[Specialis_csapat,9]
+                    *              0             0             1 
+    68 melyikEdzesMelyikNap[Videozas,9]
+                    *              0             0             1 
+    69 melyikEdzesMelyikNap[Kontaktnelkuli,9]
+                    *              0             0             1 
+    70 melyikEdzesMelyikNap[Kontakt,9]
+                    *              0             0             1 
+    71 melyikEdzesMelyikNap[Konditerem,10]
+                    *              1             0             1 
+    72 melyikEdzesMelyikNap[Futojatek,10]
+                    *              0             0             1 
+    73 melyikEdzesMelyikNap[Passzjatek,10]
+                    *              0             0             1 
+    74 melyikEdzesMelyikNap[Specialis_csapat,10]
+                    *              0             0             1 
+    75 melyikEdzesMelyikNap[Videozas,10]
+                    *              0             0             1 
+    76 melyikEdzesMelyikNap[Kontaktnelkuli,10]
+                    *              0             0             1 
+    77 melyikEdzesMelyikNap[Kontakt,10]
+                    *              0             0             1 
+    78 melyikEdzesMelyikNap[Konditerem,11]
+                    *              0             0             1 
+    79 melyikEdzesMelyikNap[Futojatek,11]
+                    *              0             0             1 
+    80 melyikEdzesMelyikNap[Passzjatek,11]
+                    *              1             0             1 
+    81 melyikEdzesMelyikNap[Specialis_csapat,11]
+                    *              0             0             1 
+    82 melyikEdzesMelyikNap[Videozas,11]
+                    *              0             0             1 
+    83 melyikEdzesMelyikNap[Kontaktnelkuli,11]
+                    *              0             0             1 
+    84 melyikEdzesMelyikNap[Kontakt,11]
+                    *              0             0             1 
+    85 melyikEdzesMelyikNap[Konditerem,12]
+                    *              0             0             1 
+    86 melyikEdzesMelyikNap[Futojatek,12]
+                    *              0             0             1 
+    87 melyikEdzesMelyikNap[Passzjatek,12]
+                    *              0             0             1 
+    88 melyikEdzesMelyikNap[Specialis_csapat,12]
+                    *              0             0             1 
+    89 melyikEdzesMelyikNap[Videozas,12]
+                    *              0             0             1 
+    90 melyikEdzesMelyikNap[Kontaktnelkuli,12]
+                    *              1             0             1 
+    91 melyikEdzesMelyikNap[Kontakt,12]
+                    *              0             0             1 
+    92 melyikEdzesMelyikNap[Konditerem,13]
+                    *              0             0             1 
+    93 melyikEdzesMelyikNap[Futojatek,13]
+                    *              0             0             1 
+    94 melyikEdzesMelyikNap[Passzjatek,13]
+                    *              0             0             1 
+    95 melyikEdzesMelyikNap[Specialis_csapat,13]
+                    *              0             0             1 
+    96 melyikEdzesMelyikNap[Videozas,13]
+                    *              0             0             1 
+    97 melyikEdzesMelyikNap[Kontaktnelkuli,13]
+                    *              0             0             1 
+    98 melyikEdzesMelyikNap[Kontakt,13]
+                    *              1             0             1 
+    99 melyikEdzesMelyikNap[Konditerem,14]
+                    *              0             0             1 
+   100 melyikEdzesMelyikNap[Futojatek,14]
+                    *              0             0             1 
+   101 melyikEdzesMelyikNap[Passzjatek,14]
+                    *              0             0             1 
+   102 melyikEdzesMelyikNap[Specialis_csapat,14]
+                    *              0             0             1 
+   103 melyikEdzesMelyikNap[Videozas,14]
+                    *              1             0             1 
+   104 melyikEdzesMelyikNap[Kontaktnelkuli,14]
+                    *              0             0             1 
+   105 melyikEdzesMelyikNap[Kontakt,14]
+                    *              0             0             1 
+   106 melyikEdzesMelyikNap[Konditerem,15]
+                    *              0             0             1 
+   107 melyikEdzesMelyikNap[Futojatek,15]
+                    *              0             0             1 
+   108 melyikEdzesMelyikNap[Passzjatek,15]
+                    *              1             0             1 
+   109 melyikEdzesMelyikNap[Specialis_csapat,15]
+                    *              0             0             1 
+   110 melyikEdzesMelyikNap[Videozas,15]
+                    *              0             0             1 
+   111 melyikEdzesMelyikNap[Kontaktnelkuli,15]
+                    *              0             0             1 
+   112 melyikEdzesMelyikNap[Kontakt,15]
+                    *              0             0             1 
+   113 melyikEdzesMelyikNap[Konditerem,16]
+                    *              0             0             1 
+   114 melyikEdzesMelyikNap[Futojatek,16]
+                    *              0             0             1 
+   115 melyikEdzesMelyikNap[Passzjatek,16]
+                    *              0             0             1 
+   116 melyikEdzesMelyikNap[Specialis_csapat,16]
+                    *              0             0             1 
+   117 melyikEdzesMelyikNap[Videozas,16]
+                    *              0             0             1 
+   118 melyikEdzesMelyikNap[Kontaktnelkuli,16]
+                    *              0             0             1 
+   119 melyikEdzesMelyikNap[Kontakt,16]
+                    *              1             0             1 
+   120 melyikEdzesMelyikNap[Konditerem,17]
+                    *              0             0             1 
+   121 melyikEdzesMelyikNap[Futojatek,17]
+                    *              0             0             1 
+   122 melyikEdzesMelyikNap[Passzjatek,17]
+                    *              0             0             1 
+   123 melyikEdzesMelyikNap[Specialis_csapat,17]
+                    *              0             0             1 
+   124 melyikEdzesMelyikNap[Videozas,17]
+                    *              0             0             1 
+   125 melyikEdzesMelyikNap[Kontaktnelkuli,17]
+                    *              0             0             1 
+   126 melyikEdzesMelyikNap[Kontakt,17]
+                    *              0             0             1 
+   127 melyikEdzesMelyikNap[Konditerem,18]
+                    *              0             0             1 
+   128 melyikEdzesMelyikNap[Futojatek,18]
+                    *              0             0             1 
+   129 melyikEdzesMelyikNap[Passzjatek,18]
+                    *              1             0             1 
+   130 melyikEdzesMelyikNap[Specialis_csapat,18]
+                    *              0             0             1 
+   131 melyikEdzesMelyikNap[Videozas,18]
+                    *              0             0             1 
+   132 melyikEdzesMelyikNap[Kontaktnelkuli,18]
+                    *              0             0             1 
+   133 melyikEdzesMelyikNap[Kontakt,18]
+                    *              0             0             1 
+   134 melyikEdzesMelyikNap[Konditerem,19]
+                    *              0             0             1 
+   135 melyikEdzesMelyikNap[Futojatek,19]
+                    *              0             0             1 
+   136 melyikEdzesMelyikNap[Passzjatek,19]
+                    *              0             0             1 
+   137 melyikEdzesMelyikNap[Specialis_csapat,19]
+                    *              0             0             1 
+   138 melyikEdzesMelyikNap[Videozas,19]
+                    *              0             0             1 
+   139 melyikEdzesMelyikNap[Kontaktnelkuli,19]
+                    *              1             0             1 
+   140 melyikEdzesMelyikNap[Kontakt,19]
+                    *              0             0             1 
+   141 melyikEdzesMelyikNap[Konditerem,20]
+                    *              0             0             1 
+   142 melyikEdzesMelyikNap[Futojatek,20]
+                    *              0             0             1 
+   143 melyikEdzesMelyikNap[Passzjatek,20]
+                    *              1             0             1 
+   144 melyikEdzesMelyikNap[Specialis_csapat,20]
+                    *              0             0             1 
+   145 melyikEdzesMelyikNap[Videozas,20]
+                    *              0             0             1 
+   146 melyikEdzesMelyikNap[Kontaktnelkuli,20]
+                    *              0             0             1 
+   147 melyikEdzesMelyikNap[Kontakt,20]
+                    *              0             0             1 
+   148 melyikEdzesMelyikNap[Konditerem,21]
+                    *              0             0             1 
+   149 melyikEdzesMelyikNap[Futojatek,21]
+                    *              1             0             1 
+   150 melyikEdzesMelyikNap[Passzjatek,21]
+                    *              0             0             1 
+   151 melyikEdzesMelyikNap[Specialis_csapat,21]
+                    *              0             0             1 
+   152 melyikEdzesMelyikNap[Videozas,21]
+                    *              0             0             1 
+   153 melyikEdzesMelyikNap[Kontaktnelkuli,21]
+                    *              0             0             1 
+   154 melyikEdzesMelyikNap[Kontakt,21]
+                    *              0             0             1 
+   155 melyikEdzesMelyikNap[Konditerem,22]
+                    *              0             0             1 
+   156 melyikEdzesMelyikNap[Futojatek,22]
+                    *              0             0             1 
+   157 melyikEdzesMelyikNap[Passzjatek,22]
+                    *              1             0             1 
+   158 melyikEdzesMelyikNap[Specialis_csapat,22]
+                    *              0             0             1 
+   159 melyikEdzesMelyikNap[Videozas,22]
+                    *              0             0             1 
+   160 melyikEdzesMelyikNap[Kontaktnelkuli,22]
+                    *              0             0             1 
+   161 melyikEdzesMelyikNap[Kontakt,22]
+                    *              0             0             1 
+   162 melyikEdzesMelyikNap[Konditerem,23]
+                    *              0             0             1 
+   163 melyikEdzesMelyikNap[Futojatek,23]
+                    *              0             0             1 
+   164 melyikEdzesMelyikNap[Passzjatek,23]
+                    *              0             0             1 
+   165 melyikEdzesMelyikNap[Specialis_csapat,23]
+                    *              0             0             1 
+   166 melyikEdzesMelyikNap[Videozas,23]
+                    *              0             0             1 
+   167 melyikEdzesMelyikNap[Kontaktnelkuli,23]
+                    *              1             0             1 
+   168 melyikEdzesMelyikNap[Kontakt,23]
+                    *              0             0             1 
+   169 melyikEdzesMelyikNap[Konditerem,24]
+                    *              0             0             1 
+   170 melyikEdzesMelyikNap[Futojatek,24]
+                    *              0             0             1 
+   171 melyikEdzesMelyikNap[Passzjatek,24]
+                    *              0             0             1 
+   172 melyikEdzesMelyikNap[Specialis_csapat,24]
+                    *              0             0             1 
+   173 melyikEdzesMelyikNap[Videozas,24]
+                    *              0             0             1 
+   174 melyikEdzesMelyikNap[Kontaktnelkuli,24]
+                    *              0             0             1 
+   175 melyikEdzesMelyikNap[Kontakt,24]
+                    *              1             0             1 
+   176 melyikEdzesMelyikNap[Konditerem,25]
+                    *              0             0             1 
+   177 melyikEdzesMelyikNap[Futojatek,25]
+                    *              0             0             1 
+   178 melyikEdzesMelyikNap[Passzjatek,25]
+                    *              0             0             1 
+   179 melyikEdzesMelyikNap[Specialis_csapat,25]
+                    *              0             0             1 
+   180 melyikEdzesMelyikNap[Videozas,25]
+                    *              1             0             1 
+   181 melyikEdzesMelyikNap[Kontaktnelkuli,25]
+                    *              0             0             1 
+   182 melyikEdzesMelyikNap[Kontakt,25]
+                    *              0             0             1 
+   183 melyikEdzesMelyikNap[Konditerem,26]
+                    *              0             0             1 
+   184 melyikEdzesMelyikNap[Futojatek,26]
+                    *              0             0             1 
+   185 melyikEdzesMelyikNap[Passzjatek,26]
+                    *              1             0             1 
+   186 melyikEdzesMelyikNap[Specialis_csapat,26]
+                    *              0             0             1 
+   187 melyikEdzesMelyikNap[Videozas,26]
+                    *              0             0             1 
+   188 melyikEdzesMelyikNap[Kontaktnelkuli,26]
+                    *              0             0             1 
+   189 melyikEdzesMelyikNap[Kontakt,26]
+                    *              0             0             1 
+   190 melyikEdzesMelyikNap[Konditerem,27]
+                    *              0             0             1 
+   191 melyikEdzesMelyikNap[Futojatek,27]
+                    *              0             0             1 
+   192 melyikEdzesMelyikNap[Passzjatek,27]
+                    *              0             0             1 
+   193 melyikEdzesMelyikNap[Specialis_csapat,27]
+                    *              0             0             1 
+   194 melyikEdzesMelyikNap[Videozas,27]
+                    *              0             0             1 
+   195 melyikEdzesMelyikNap[Kontaktnelkuli,27]
+                    *              1             0             1 
+   196 melyikEdzesMelyikNap[Kontakt,27]
+                    *              0             0             1 
+   197 melyikEdzesMelyikNap[Konditerem,28]
+                    *              0             0             1 
+   198 melyikEdzesMelyikNap[Futojatek,28]
+                    *              0             0             1 
+   199 melyikEdzesMelyikNap[Passzjatek,28]
+                    *              1             0             1 
+   200 melyikEdzesMelyikNap[Specialis_csapat,28]
+                    *              0             0             1 
+   201 melyikEdzesMelyikNap[Videozas,28]
+                    *              0             0             1 
+   202 melyikEdzesMelyikNap[Kontaktnelkuli,28]
+                    *              0             0             1 
+   203 melyikEdzesMelyikNap[Kontakt,28]
+                    *              0             0             1 
+   204 melyikEdzesMelyikNap[Konditerem,29]
+                    *              0             0             1 
+   205 melyikEdzesMelyikNap[Futojatek,29]
+                    *              0             0             1 
+   206 melyikEdzesMelyikNap[Passzjatek,29]
+                    *              0             0             1 
+   207 melyikEdzesMelyikNap[Specialis_csapat,29]
+                    *              0             0             1 
+   208 melyikEdzesMelyikNap[Videozas,29]
+                    *              0             0             1 
+   209 melyikEdzesMelyikNap[Kontaktnelkuli,29]
+                    *              1             0             1 
+   210 melyikEdzesMelyikNap[Kontakt,29]
+                    *              0             0             1 
+   211 melyikEdzesMelyikNap[Konditerem,30]
+                    *              0             0             1 
+   212 melyikEdzesMelyikNap[Futojatek,30]
+                    *              0             0             1 
+   213 melyikEdzesMelyikNap[Passzjatek,30]
+                    *              1             0             1 
+   214 melyikEdzesMelyikNap[Specialis_csapat,30]
+                    *              0             0             1 
+   215 melyikEdzesMelyikNap[Videozas,30]
+                    *              0             0             1 
+   216 melyikEdzesMelyikNap[Kontaktnelkuli,30]
+                    *              0             0             1 
+   217 melyikEdzesMelyikNap[Kontakt,30]
+                    *              0             0             1 
+   218 melyikEdzesMelyikNap[Konditerem,31]
+                    *              0             0             1 
+   219 melyikEdzesMelyikNap[Futojatek,31]
+                    *              1             0             1 
+   220 melyikEdzesMelyikNap[Passzjatek,31]
+                    *              0             0             1 
+   221 melyikEdzesMelyikNap[Specialis_csapat,31]
+                    *              0             0             1 
+   222 melyikEdzesMelyikNap[Videozas,31]
+                    *              0             0             1 
+   223 melyikEdzesMelyikNap[Kontaktnelkuli,31]
+                    *              0             0             1 
+   224 melyikEdzesMelyikNap[Kontakt,31]
+                    *              0             0             1 
+   225 melyikEdzesMelyikNap[Konditerem,32]
+                    *              0             0             1 
+   226 melyikEdzesMelyikNap[Futojatek,32]
+                    *              0             0             1 
+   227 melyikEdzesMelyikNap[Passzjatek,32]
+                    *              1             0             1 
+   228 melyikEdzesMelyikNap[Specialis_csapat,32]
+                    *              0             0             1 
+   229 melyikEdzesMelyikNap[Videozas,32]
+                    *              0             0             1 
+   230 melyikEdzesMelyikNap[Kontaktnelkuli,32]
+                    *              0             0             1 
+   231 melyikEdzesMelyikNap[Kontakt,32]
+                    *              0             0             1 
+   232 melyikEdzesMelyikNap[Konditerem,33]
+                    *              0             0             1 
+   233 melyikEdzesMelyikNap[Futojatek,33]
+                    *              1             0             1 
+   234 melyikEdzesMelyikNap[Passzjatek,33]
+                    *              0             0             1 
+   235 melyikEdzesMelyikNap[Specialis_csapat,33]
+                    *              0             0             1 
+   236 melyikEdzesMelyikNap[Videozas,33]
+                    *              0             0             1 
+   237 melyikEdzesMelyikNap[Kontaktnelkuli,33]
+                    *              0             0             1 
+   238 melyikEdzesMelyikNap[Kontakt,33]
+                    *              0             0             1 
+   239 melyikEdzesMelyikNap[Konditerem,34]
+                    *              0             0             1 
+   240 melyikEdzesMelyikNap[Futojatek,34]
+                    *              0             0             1 
+   241 melyikEdzesMelyikNap[Passzjatek,34]
+                    *              1             0             1 
+   242 melyikEdzesMelyikNap[Specialis_csapat,34]
+                    *              0             0             1 
+   243 melyikEdzesMelyikNap[Videozas,34]
+                    *              0             0             1 
+   244 melyikEdzesMelyikNap[Kontaktnelkuli,34]
+                    *              0             0             1 
+   245 melyikEdzesMelyikNap[Kontakt,34]
+                    *              0             0             1 
+   246 melyikEdzesMelyikNap[Konditerem,35]
+                    *              0             0             1 
+   247 melyikEdzesMelyikNap[Futojatek,35]
+                    *              0             0             1 
+   248 melyikEdzesMelyikNap[Passzjatek,35]
+                    *              0             0             1 
+   249 melyikEdzesMelyikNap[Specialis_csapat,35]
+                    *              1             0             1 
+   250 melyikEdzesMelyikNap[Videozas,35]
+                    *              0             0             1 
+   251 melyikEdzesMelyikNap[Kontaktnelkuli,35]
+                    *              0             0             1 
+   252 melyikEdzesMelyikNap[Kontakt,35]
+                    *              0             0             1 
+   253 melyikEdzesMelyikNap[Konditerem,36]
+                    *              0             0             1 
+   254 melyikEdzesMelyikNap[Futojatek,36]
+                    *              0             0             1 
+   255 melyikEdzesMelyikNap[Passzjatek,36]
+                    *              1             0             1 
+   256 melyikEdzesMelyikNap[Specialis_csapat,36]
+                    *              0             0             1 
+   257 melyikEdzesMelyikNap[Videozas,36]
+                    *              0             0             1 
+   258 melyikEdzesMelyikNap[Kontaktnelkuli,36]
+                    *              0             0             1 
+   259 melyikEdzesMelyikNap[Kontakt,36]
+                    *              0             0             1 
+   260 melyikEdzesMelyikNap[Konditerem,37]
+                    *              1             0             1 
+   261 melyikEdzesMelyikNap[Futojatek,37]
+                    *              0             0             1 
+   262 melyikEdzesMelyikNap[Passzjatek,37]
+                    *              0             0             1 
+   263 melyikEdzesMelyikNap[Specialis_csapat,37]
+                    *              0             0             1 
+   264 melyikEdzesMelyikNap[Videozas,37]
+                    *              0             0             1 
+   265 melyikEdzesMelyikNap[Kontaktnelkuli,37]
+                    *              0             0             1 
+   266 melyikEdzesMelyikNap[Kontakt,37]
+                    *              0             0             1 
+   267 melyikEdzesMelyikNap[Konditerem,38]
+                    *              0             0             1 
+   268 melyikEdzesMelyikNap[Futojatek,38]
+                    *              0             0             1 
+   269 melyikEdzesMelyikNap[Passzjatek,38]
+                    *              1             0             1 
+   270 melyikEdzesMelyikNap[Specialis_csapat,38]
+                    *              0             0             1 
+   271 melyikEdzesMelyikNap[Videozas,38]
+                    *              0             0             1 
+   272 melyikEdzesMelyikNap[Kontaktnelkuli,38]
+                    *              0             0             1 
+   273 melyikEdzesMelyikNap[Kontakt,38]
+                    *              0             0             1 
+   274 melyikEdzesMelyikNap[Konditerem,39]
+                    *              0             0             1 
+   275 melyikEdzesMelyikNap[Futojatek,39]
+                    *              0             0             1 
+   276 melyikEdzesMelyikNap[Passzjatek,39]
+                    *              0             0             1 
+   277 melyikEdzesMelyikNap[Specialis_csapat,39]
+                    *              0             0             1 
+   278 melyikEdzesMelyikNap[Videozas,39]
+                    *              0             0             1 
+   279 melyikEdzesMelyikNap[Kontaktnelkuli,39]
+                    *              1             0             1 
+   280 melyikEdzesMelyikNap[Kontakt,39]
+                    *              0             0             1 
+   281 melyikEdzesMelyikNap[Konditerem,40]
+                    *              0             0             1 
+   282 melyikEdzesMelyikNap[Futojatek,40]
+                    *              0             0             1 
+   283 melyikEdzesMelyikNap[Passzjatek,40]
+                    *              1             0             1 
+   284 melyikEdzesMelyikNap[Specialis_csapat,40]
+                    *              0             0             1 
+   285 melyikEdzesMelyikNap[Videozas,40]
+                    *              0             0             1 
+   286 melyikEdzesMelyikNap[Kontaktnelkuli,40]
+                    *              0             0             1 
+   287 melyikEdzesMelyikNap[Kontakt,40]
+                    *              0             0             1 
+   288 melyikEdzesMelyikNap[Konditerem,41]
+                    *              0             0             1 
+   289 melyikEdzesMelyikNap[Futojatek,41]
+                    *              0             0             1 
+   290 melyikEdzesMelyikNap[Passzjatek,41]
+                    *              0             0             1 
+   291 melyikEdzesMelyikNap[Specialis_csapat,41]
+                    *              0             0             1 
+   292 melyikEdzesMelyikNap[Videozas,41]
+                    *              0             0             1 
+   293 melyikEdzesMelyikNap[Kontaktnelkuli,41]
+                    *              1             0             1 
+   294 melyikEdzesMelyikNap[Kontakt,41]
+                    *              0             0             1 
+   295 melyikEdzesMelyikNap[Konditerem,42]
+                    *              0             0             1 
+   296 melyikEdzesMelyikNap[Futojatek,42]
+                    *              0             0             1 
+   297 melyikEdzesMelyikNap[Passzjatek,42]
+                    *              1             0             1 
+   298 melyikEdzesMelyikNap[Specialis_csapat,42]
+                    *              0             0             1 
+   299 melyikEdzesMelyikNap[Videozas,42]
+                    *              0             0             1 
+   300 melyikEdzesMelyikNap[Kontaktnelkuli,42]
+                    *              0             0             1 
+   301 melyikEdzesMelyikNap[Kontakt,42]
+                    *              0             0             1 
+   302 melyikEdzesMelyikNap[Konditerem,43]
+                    *              0             0             1 
+   303 melyikEdzesMelyikNap[Futojatek,43]
+                    *              0             0             1 
+   304 melyikEdzesMelyikNap[Passzjatek,43]
+                    *              0             0             1 
+   305 melyikEdzesMelyikNap[Specialis_csapat,43]
+                    *              0             0             1 
+   306 melyikEdzesMelyikNap[Videozas,43]
+                    *              0             0             1 
+   307 melyikEdzesMelyikNap[Kontaktnelkuli,43]
+                    *              0             0             1 
+   308 melyikEdzesMelyikNap[Kontakt,43]
+                    *              1             0             1 
+   309 melyikEdzesMelyikNap[Konditerem,44]
+                    *              0             0             1 
+   310 melyikEdzesMelyikNap[Futojatek,44]
+                    *              0             0             1 
+   311 melyikEdzesMelyikNap[Passzjatek,44]
+                    *              0             0             1 
+   312 melyikEdzesMelyikNap[Specialis_csapat,44]
+                    *              0             0             1 
+   313 melyikEdzesMelyikNap[Videozas,44]
+                    *              1             0             1 
+   314 melyikEdzesMelyikNap[Kontaktnelkuli,44]
+                    *              0             0             1 
+   315 melyikEdzesMelyikNap[Kontakt,44]
+                    *              0             0             1 
+   316 melyikEdzesMelyikNap[Konditerem,45]
+                    *              0             0             1 
+   317 melyikEdzesMelyikNap[Futojatek,45]
+                    *              0             0             1 
+   318 melyikEdzesMelyikNap[Passzjatek,45]
+                    *              0             0             1 
+   319 melyikEdzesMelyikNap[Specialis_csapat,45]
+                    *              0             0             1 
+   320 melyikEdzesMelyikNap[Videozas,45]
+                    *              0             0             1 
+   321 melyikEdzesMelyikNap[Kontaktnelkuli,45]
+                    *              0             0             1 
+   322 melyikEdzesMelyikNap[Kontakt,45]
+                    *              1             0             1 
+   323 osszKoltsegek[Konditerem]
+                               30000                             
+   324 osszKoltsegek[Futojatek]
+                               24000                             
+   325 osszKoltsegek[Passzjatek]
+                               36000                             
+   326 osszKoltsegek[Specialis_csapat]
+                                2000                             
+   327 osszKoltsegek[Videozas]
+                                9000                             
+   328 osszKoltsegek[Kontaktnelkuli]
+                               16000                             
+   329 osszKoltsegek[Kontakt]
+                               10000                             
+
+Integer feasibility conditions:
+
+KKT.PE: max.abs.err = 0.00e+00 on row 0
+        max.rel.err = 0.00e+00 on row 0
+        High quality
+
+KKT.PB: max.abs.err = 2.55e-11 on row 736
+        max.rel.err = 2.55e-11 on row 736
+        High quality
+
+End of output
